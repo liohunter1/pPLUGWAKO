@@ -3,7 +3,7 @@ import { Link } from 'wouter';
 import { ShoppingCart, Star, Check } from 'lucide-react';
 import { useCart } from '@/hooks/useCart';
 import { formatCurrency } from '@/utils/formatCurrency';
-import { getProductImage } from '@/utils/productImages';
+import { getCategoryImage } from '@/utils/productImages';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Skeleton } from '@/components/ui/skeleton';
@@ -32,7 +32,7 @@ export default function ProductCard({ product }: ProductCardProps) {
     setTimeout(() => setAddedToCart(false), 2000);
   };
 
-  const productImage = getProductImage(product.category_id, product.id);
+  const productImage = product.image || getCategoryImage(product.category_id);
 
   return (
     <Link href={`/product/${product.id}`}>
