@@ -11,7 +11,7 @@
     "rating": 4.7,
     "featured": true,
     "in_stock": true,
-    "image": "/images/tusker-lager.jpg",
+    "image": "/images/tusker-lager-500ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -30,7 +30,7 @@
     "rating": 4.8,
     "featured": true,
     "in_stock": true,
-    "image": "/images/tusker-malt.jpg",
+    "image": "/images/tusker-malt-500ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -277,7 +277,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/famous-grouse.jpg",
+    "image": "/images/famous-grouse-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -353,7 +353,7 @@
     "rating": 4.6,
     "featured": false,
     "in_stock": true,
-    "image": "/images/gordons.jpg",
+    "image": "/images/gordons-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -644,7 +644,7 @@
     "rating": 4.8,
     "featured": false,
     "in_stock": true,
-    "image": "/images/remy-martin.jpg",
+    "image": "/images/remy-martin-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -739,7 +739,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jagermeister.jpg",
+    "image": "/images/jagermeister-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -777,7 +777,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/barefoot-moscato.jpg",
+    "image": "/images/barefoot-moscato-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -796,7 +796,7 @@
     "rating": 4.6,
     "featured": false,
     "in_stock": true,
-    "image": "/images/barefoot-pink.jpg",
+    "image": "/images/barefoot-pink-moscato-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -872,7 +872,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/yellow-tail.jpg",
+    "image": "/images/yellow-tail-shiraz-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -891,7 +891,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/nederburg.jpg",
+    "image": "/images/nederburg-cabernet-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -910,7 +910,7 @@
     "rating": 4.3,
     "featured": false,
     "in_stock": true,
-    "image": "/images/4th-street.jpg",
+    "image": "/images/4th-street-red-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -990,7 +990,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/kenya-cane-coconut.jpg",
+    "image": "/images/kenya-cane-coconut-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
