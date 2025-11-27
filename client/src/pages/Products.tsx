@@ -55,9 +55,9 @@ export default function Products() {
     if (searchQuery) {
       const query = searchQuery.toLowerCase();
       result = result.filter(p => 
-        p.name.toLowerCase().includes(query) ||
-        p.description.toLowerCase().includes(query) ||
-        p.category_name.toLowerCase().includes(query)
+        (p.name && p.name.toLowerCase().includes(query)) ||
+        (p.description && p.description.toLowerCase().includes(query)) ||
+        (p.category_name && p.category_name.toLowerCase().includes(query))
       );
     }
 
