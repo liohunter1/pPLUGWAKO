@@ -26,7 +26,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center gap-2 group" data-testid="logo-link">
             <Wine className="h-8 w-8 text-primary transition-transform group-hover:scale-110" />
             <span className="font-serif text-xl lg:text-2xl font-bold text-white">
-              Premium<span className="text-primary">Liquor</span>
+              p<span className="text-primary">PLUGWAKO</span>
             </span>
           </Link>
 

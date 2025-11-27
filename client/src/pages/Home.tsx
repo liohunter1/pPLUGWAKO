@@ -42,7 +42,7 @@ export default function Home() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="max-w-2xl">
             <span className="inline-block text-primary font-medium mb-4 tracking-wide uppercase text-sm">
-              Kenya's Premier Liquor Store
+              pPLUGWAKO - Liquor Aggregator
             </span>
             <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
               Premium Spirits,<br />

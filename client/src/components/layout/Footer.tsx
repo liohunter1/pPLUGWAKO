@@ -10,7 +10,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2">
               <Wine className="h-8 w-8 text-primary" />
               <span className="font-serif text-xl font-bold text-white">
-                Premium<span className="text-primary">Liquor</span>
+                p<span className="text-primary">PLUGWAKO</span>
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
@@ -105,7 +105,7 @@ export default function Footer() {
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {new Date().getFullYear()} Premium Liquor Kenya. All rights reserved.
+            © {new Date().getFullYear()} pPLUGWAKO. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm" data-testid="footer-privacy">
