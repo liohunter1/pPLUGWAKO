@@ -45,6 +45,18 @@ export default function Products() {
   const maxPrice = Math.max(...allProducts.map(p => p.price));
   const minPrice = Math.min(...allProducts.map(p => p.price));
 
+  // Update state when URL parameters change
+  useEffect(() => {
+    const newCategory = urlParams.get('category') || '';
+    const newSearch = urlParams.get('q') || '';
+    if (newCategory !== selectedCategory) {
+      setSelectedCategory(newCategory);
+    }
+    if (newSearch !== searchQuery) {
+      setSearchQuery(newSearch);
+    }
+  }, [searchParams]);
+
   useEffect(() => {
     setCurrentPage(1);
   }, [searchQuery, selectedCategory, sortBy, priceRange]);
