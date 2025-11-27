@@ -486,7 +486,7 @@
     "rating": 4.5,
     "featured": true,
     "in_stock": true,
-    "image": "/images/kenya-cane-750ml-correct.jpg",
+    "image": "/images/kenya-cane-smooth.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -501,7 +501,7 @@
       {
         "size": "750ml",
         "price": 650,
-        "image": "/images/kenya-cane-750ml.jpg"
+        "image": "/images/kenya-cane-smooth.jpg"
       },
       {
         "size": "1L",
@@ -527,7 +527,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/kenya-cane-750ml-correct.jpg",
+    "image": "/images/kenya-cane-smooth.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -542,7 +542,7 @@
       {
         "size": "750ml",
         "price": 650,
-        "image": "/images/kenya-cane-750ml.jpg"
+        "image": "/images/kenya-cane-smooth.jpg"
       },
       {
         "size": "1L",
