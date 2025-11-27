@@ -491,7 +491,24 @@
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
       "contact": "+254 700 123 457"
-    }
+    },
+    "variants": [
+      {
+        "size": "250ml",
+        "price": 250,
+        "image": "/images/kenya-cane-250ml.jpg"
+      },
+      {
+        "size": "750ml",
+        "price": 650,
+        "image": "/images/kenya-cane-750ml.jpg"
+      },
+      {
+        "size": "1L",
+        "price": 900,
+        "image": "/images/kenya-cane-1l.jpg"
+      }
+    ]
   },
   {
     "id": "kenya-cane-750ml",
@@ -510,7 +527,24 @@
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
       "contact": "+254 700 123 457"
-    }
+    },
+    "variants": [
+      {
+        "size": "250ml",
+        "price": 250,
+        "image": "/images/kenya-cane-250ml.jpg"
+      },
+      {
+        "size": "750ml",
+        "price": 650,
+        "image": "/images/kenya-cane-750ml.jpg"
+      },
+      {
+        "size": "1L",
+        "price": 900,
+        "image": "/images/kenya-cane-1l.jpg"
+      }
+    ]
   },
   {
     "id": "sailor-jerry-750ml",

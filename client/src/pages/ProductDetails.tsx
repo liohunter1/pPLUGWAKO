@@ -13,11 +13,18 @@ import { redirectToWhatsApp } from '@/utils/whatsapp';
 import products from '@/data/products.json';
 import type { Product } from '@/types/product';
 
+interface Variant {
+  size: string;
+  price: number;
+  image: string;
+}
+
 export default function ProductDetails() {
   const params = useParams<{ id: string }>();
   const [quantity, setQuantity] = useState(1);
   const [addedToCart, setAddedToCart] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
+  const [selectedVariant, setSelectedVariant] = useState<Variant | null>(null);
   const { addItem } = useCart();
 
   const allProducts = products as Product[];
@@ -44,14 +51,18 @@ export default function ProductDetails() {
     .filter(p => p.category_id === product.category_id && p.id !== product.id)
     .slice(0, 4);
 
+  const productVariants = (product as any).variants as Variant[] | undefined;
+  const displayImage = selectedVariant ? selectedVariant.image : getProductImage(product.category_id, product.id);
+  const displayPrice = selectedVariant ? selectedVariant.price : product.price;
+
   const handleAddToCart = () => {
     for (let i = 0; i < quantity; i++) {
       addItem({
-        id: product.id,
-        name: product.name,
-        price: product.price,
-        volume: product.volume,
-        image: product.image,
+        id: selectedVariant ? `${product.id}-${selectedVariant.size}` : product.id,
+        name: selectedVariant ? `${product.name} - ${selectedVariant.size}` : product.name,
+        price: displayPrice,
+        volume: selectedVariant ? selectedVariant.size : product.volume,
+        image: displayImage,
       });
     }
     setAddedToCart(true);
@@ -60,17 +71,15 @@ export default function ProductDetails() {
 
   const handleBuyNow = () => {
     const items = [{
-      id: product.id,
-      name: product.name,
-      price: product.price,
-      volume: product.volume,
+      id: selectedVariant ? `${product.id}-${selectedVariant.size}` : product.id,
+      name: selectedVariant ? `${product.name} - ${selectedVariant.size}` : product.name,
+      price: displayPrice,
+      volume: selectedVariant ? selectedVariant.size : product.volume,
       quantity,
-      image: product.image,
+      image: displayImage,
     }];
-    redirectToWhatsApp(items, product.price * quantity);
+    redirectToWhatsApp(items, displayPrice * quantity);
   };
-
-  const productImage = getProductImage(product.category_id, product.id);
 
   return (
     <Layout>
@@ -81,25 +90,57 @@ export default function ProductDetails() {
         </Link>
 
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12" data-testid="product-details">
-          <div className="relative aspect-square rounded-2xl overflow-hidden bg-card border border-border">
-            {!imageLoaded && <Skeleton className="absolute inset-0" />}
-            <img
-              src={productImage}
-              alt={product.name}
-              className={`h-full w-full object-cover transition-opacity duration-300 ${
-                imageLoaded ? 'opacity-100' : 'opacity-0'
-              }`}
-              onLoad={() => setImageLoaded(true)}
-              data-testid="product-image"
-            />
-            {product.featured && (
-              <Badge className="absolute top-4 left-4 bg-primary text-primary-foreground">
-                Featured
-              </Badge>
-            )}
-            {!product.in_stock && (
-              <div className="absolute inset-0 bg-black/70 flex items-center justify-center">
-                <span className="text-white font-semibold text-xl">Out of Stock</span>
+          <div>
+            <div className="relative aspect-square rounded-2xl overflow-hidden bg-card border border-border mb-4">
+              {!imageLoaded && <Skeleton className="absolute inset-0" />}
+              <img
+                src={displayImage}
+                alt={product.name}
+                className={`h-full w-full object-cover transition-opacity duration-300 ${
+                  imageLoaded ? 'opacity-100' : 'opacity-0'
+                }`}
+                onLoad={() => setImageLoaded(true)}
+                data-testid="product-image"
+              />
+              {product.featured && (
+                <Badge className="absolute top-4 left-4 bg-primary text-primary-foreground">
+                  Featured
+                </Badge>
+              )}
+              {!product.in_stock && (
+                <div className="absolute inset-0 bg-black/70 flex items-center justify-center">
+                  <span className="text-white font-semibold text-xl">Out of Stock</span>
+                </div>
+              )}
+            </div>
+            
+            {productVariants && productVariants.length > 0 && (
+              <div className="space-y-2">
+                <p className="text-sm text-muted-foreground font-medium">Available Options:</p>
+                <div className="grid grid-cols-2 gap-2">
+                  {productVariants.map((variant) => (
+                    <button
+                      key={variant.size}
+                      onClick={() => setSelectedVariant(variant)}
+                      className={`relative group rounded-lg overflow-hidden border-2 transition-all ${
+                        selectedVariant?.size === variant.size
+                          ? 'border-primary'
+                          : 'border-border hover:border-primary/50'
+                      }`}
+                      data-testid={`variant-${variant.size}`}
+                    >
+                      <img
+                        src={variant.image}
+                        alt={`${product.name} ${variant.size}`}
+                        className="w-full aspect-square object-cover"
+                      />
+                      <div className="absolute inset-0 bg-black/40 group-hover:bg-black/30 transition-colors flex flex-col items-center justify-center">
+                        <span className="text-white font-medium text-sm">{variant.size}</span>
+                        <span className="text-primary text-xs font-semibold">{formatCurrency(variant.price)}</span>
+                      </div>
+                    </button>
+                  ))}
+                </div>
               </div>
             )}
           </div>
@@ -142,8 +183,11 @@ export default function ProductDetails() {
 
             <div className="flex items-baseline gap-2 mb-8">
               <span className="text-3xl font-bold text-primary" data-testid="product-price">
-                {formatCurrency(product.price)}
+                {formatCurrency(displayPrice)}
               </span>
+              {selectedVariant && (
+                <span className="text-sm text-muted-foreground">({selectedVariant.size})</span>
+              )}
             </div>
 
             <div className="flex items-center gap-4 mb-6">
