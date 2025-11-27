@@ -1,45 +1,63 @@
-import whiskey1 from '@assets/stock_images/premium_whiskey_bott_84938dad.jpg';
-import whiskey2 from '@assets/stock_images/premium_whiskey_bott_843935ac.jpg';
-import whiskey3 from '@assets/stock_images/premium_whiskey_bott_014daf9c.jpg';
-import vodka1 from '@assets/stock_images/premium_vodka_bottle_adeb2ea9.jpg';
-import vodka2 from '@assets/stock_images/premium_vodka_bottle_79e6b98e.jpg';
-import vodka3 from '@assets/stock_images/premium_vodka_bottle_9d1800f4.jpg';
-import cognac1 from '@assets/stock_images/cognac_hennessy_bott_2c97fa38.jpg';
-import cognac2 from '@assets/stock_images/cognac_hennessy_bott_3331e4a9.jpg';
-import beer1 from '@assets/stock_images/beer_bottles_dark_ba_f8fa195e.jpg';
-import beer2 from '@assets/stock_images/beer_bottles_dark_ba_228aa46d.jpg';
-import beer3 from '@assets/stock_images/beer_bottles_dark_ba_c2a9ac0e.jpg';
-import wine1 from '@assets/stock_images/wine_bottles_red_whi_b5c3bd2f.jpg';
-import wine2 from '@assets/stock_images/wine_bottles_red_whi_d76e6d30.jpg';
-import wine3 from '@assets/stock_images/wine_bottles_red_whi_e2e05449.jpg';
-import rum1 from '@assets/stock_images/rum_bottle_captain_m_34af5669.jpg';
-import rum2 from '@assets/stock_images/rum_bottle_captain_m_cf832c24.jpg';
-import gin1 from '@assets/stock_images/gin_bottle_tanqueray_5af188cc.jpg';
-import gin2 from '@assets/stock_images/gin_bottle_tanqueray_eda1e656.jpg';
-import liqueur1 from '@assets/stock_images/cream_liqueur_bailey_6d25e083.jpg';
-import liqueur2 from '@assets/stock_images/cream_liqueur_bailey_1bd2b7dc.jpg';
-import heroImage from '@assets/stock_images/luxury_bar_liquor_st_e061ed46.jpg';
-
-const categoryImages: Record<string, string[]> = {
-  'beer-cider': [beer1, beer2, beer3],
-  'whisky': [whiskey1, whiskey2, whiskey3],
-  'vodka-gin': [vodka1, vodka2, vodka3, gin1, gin2],
-  'rum': [rum1, rum2],
-  'cognac-brandy': [cognac1, cognac2],
-  'wine': [wine1, wine2, wine3],
-  'liqueur': [liqueur1, liqueur2],
-  'non-alcoholic': [vodka1, beer1],
+const productImageMap: Record<string, string> = {
+  'tusker-lager-500ml': '/images/tusker-lager.jpg',
+  'tusker-malt-500ml': '/images/tusker-malt.jpg',
+  'guinness-500ml': '/images/guinness.jpg',
+  'jameson-750ml': '/images/jameson-750ml.jpg',
+  'jameson-black-750ml': '/images/jameson-black.jpg',
+  'jameson-1l-750ml': '/images/jameson-1l.jpg',
+  'johnnie-walker-black-750ml': '/images/johnnie-black.jpg',
+  'johnnie-walker-red-750ml': '/images/johnnie-red.jpg',
+  'johnnie-walker-gold-750ml': '/images/johnnie-gold.jpg',
+  'johnnie-walker-green-750ml': '/images/johnnie-green.jpg',
+  'chivas-regal-12-750ml': '/images/chivas-12.jpg',
+  'chivas-regal-18-750ml': '/images/chivas-18.jpg',
+  'ciroc-750ml': '/images/ciroc.jpg',
+  'ciroc-pineapple-750ml': '/images/ciroc-pineapple.jpg',
+  'absolut-750ml': '/images/absolut.jpg',
+  'smirnoff-750ml': '/images/smirnoff.jpg',
+  'grey-goose-750ml': '/images/grey-goose.jpg',
+  'tanqueray-750ml': '/images/tanqueray.jpg',
+  'tanqueray-10-750ml': '/images/tanqueray-10.jpg',
+  'tanqueray-sevilla-750ml': '/images/tanqueray-sevilla.jpg',
+  'bacardi-white-750ml': '/images/bacardi-white.jpg',
+  'captain-morgan-750ml': '/images/captain-morgan.jpg',
+  'hennessy-vs-750ml': '/images/hennessy-vs.jpg',
+  'hennessy-vsop-750ml': '/images/hennessy-vsop.jpg',
+  'hennessy-xo-750ml': '/images/hennessy-xo.jpg',
+  'baileys-750ml': '/images/baileys.jpg',
+  'amarula-750ml': '/images/amarula.jpg',
+  'glenfiddich-12-750ml': '/images/glenfiddich-12.jpg',
+  'whispering-angel-750ml': '/images/whispering-angel.jpg',
+  '1659-red-750ml': '/images/1659-red.jpg',
+  '1659-rose-750ml': '/images/1659-rose.jpg',
+  'aberfeldy-12-750ml': '/images/aberfeldy-12.jpg',
 };
 
+const categoryImages: Record<string, string[]> = {
+  'beer-cider': ['/images/tusker-lager.jpg', '/images/tusker-malt.jpg', '/images/guinness.jpg'],
+  'whisky': ['/images/jameson-750ml.jpg', '/images/johnnie-black.jpg', '/images/chivas-12.jpg', '/images/aberfeldy-12.jpg', '/images/glenfiddich-12.jpg'],
+  'vodka-gin': ['/images/ciroc.jpg', '/images/absolut.jpg', '/images/smirnoff.jpg', '/images/grey-goose.jpg', '/images/tanqueray.jpg'],
+  'rum': ['/images/bacardi-white.jpg', '/images/captain-morgan.jpg'],
+  'cognac-brandy': ['/images/hennessy-vs.jpg', '/images/hennessy-vsop.jpg', '/images/hennessy-xo.jpg'],
+  'wine': ['/images/1659-red.jpg', '/images/1659-rose.jpg', '/images/whispering-angel.jpg'],
+  'liqueur': ['/images/baileys.jpg', '/images/amarula.jpg'],
+  'non-alcoholic': ['/images/tusker-lager.jpg'],
+};
+
+const heroImage = '/images/jameson-750ml.jpg';
+
 export function getProductImage(categoryId: string, productId: string): string {
-  const images = categoryImages[categoryId] || [whiskey1];
+  if (productImageMap[productId]) {
+    return productImageMap[productId];
+  }
+  const images = categoryImages[categoryId] || categoryImages['whisky'];
   const hash = productId.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
   return images[hash % images.length];
 }
 
 export function getCategoryImage(categoryId: string): string {
   const images = categoryImages[categoryId];
-  return images ? images[0] : whiskey1;
+  return images ? images[0] : '/images/jameson-750ml.jpg';
 }
 
 export { heroImage };
