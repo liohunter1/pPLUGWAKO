@@ -4522,7 +4522,7 @@
     "rating": 4.073959020669148,
     "featured": false,
     "in_stock": true,
-    "image": "/images/opus-one-750ml.jpg",
+    "image": "/images/opus-one-napa-valley.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4627,7 +4627,7 @@
     "rating": 4.388123288185193,
     "featured": false,
     "in_stock": true,
-    "image": "/images/cloudy-bay-sauvignon-blanc-750ml.jpg",
+    "image": "/images/cloudy-bay-sauvignon.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5929,7 +5929,7 @@
     "rating": 4.711176381259258,
     "featured": true,
     "in_stock": true,
-    "image": "/images/brunello-di-montalcino-750ml.jpg",
+    "image": "/images/brunello-di-montalcino.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
