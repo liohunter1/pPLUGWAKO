@@ -1,0 +1,368 @@
+🚀 ROLE & GOAL
+
+You are an expert Frontend Engineer.
+Build a complete STATIC e-commerce website for a Kenyan liquor store using React + Vite + TypeScript + TailwindCSS, with no backend and no external databases.
+
+All product data must come from local JSON files.
+The shopping cart must persist using localStorage.
+Checkout must redirect to WhatsApp with a formatted order message.
+
+📸 AUTHORIZED ONLINE STORES TO SCRAPE PRODUCT IMAGES FROM
+
+(Use only product images; do NOT mention these brands or URLs anywhere in the UI.)
+
+You may scrape images from:
+
+Diageo Kenya / EABL Kenya
+
+https://www.vintageliquorkenya.com/
+
+https://dialadelivery.co.ke/
+
+https://www.winehubkenya.com/
+
+https://www.boozebros.co.ke/
+
+https://liquorstore.co.ke/
+
+https://drinksvine.co.ke/
+
+https://barrelandbottle.co.ke/
+
+https://oakandbar.co.ke/
+
+https://theliquorshed.co.ke/
+
+Do not include any store branding, URLs, or credits in the website.
+
+🎨 1. DESIGN & BRANDING
+
+Theme: Dark Luxury — premium high-end alcohol aesthetic
+Colors:
+
+Rich Black → #0A0E27
+
+Gold → #D4AF37
+
+White → #FFFFFF
+
+Fonts:
+
+Playfair Display → Headings
+
+Inter → Body and UI text
+
+Style requirements:
+
+Fully responsive (mobile → desktop)
+
+Smooth transitions
+
+Gold accents on hover
+
+Professional premium layout
+
+📄 2. REQUIRED PAGES
+Public Pages
+
+Home
+
+Hero banner
+
+Featured products
+
+Category grid
+
+Products Catalog
+
+Search bar
+
+Category filter
+
+Price slider filter
+
+Sorting (price, name, popularity)
+
+Client-side pagination (12 per page)
+
+Product Details
+
+Large HD image
+
+Price, volume, alcohol percentage
+
+Description
+
+Add to Cart
+
+Similar products carousel
+
+Cart Page
+
+View items
+
+Increase/decrease quantity
+
+Remove item
+
+Total price
+
+Checkout → WhatsApp redirect
+
+Stores Page
+
+Partner locations
+
+Contact info
+
+Map or static grid
+
+404 Page
+
+Custom "Not Found" layout
+
+🍾 3. PRODUCT CATALOG — 60+ REAL ITEMS
+
+Create 60+ real Kenyan-market liquor products under categories:
+
+Beer & Cider (Tusker, Pilsner, Savanna, Hunter’s, Guinness)
+
+Whisky (Jameson, Jack Daniels, Chivas, Johnnie Walker, Talisker, Aberfeldy)
+
+Vodka & Gin (Ciroc, Absolut, Gordons, Tanqueray, Beluga, Gilbeys)
+
+Rum (Bacardi, Captain Morgan, Kenya Cane, Sailor Jerry, Havana Club)
+
+Cognac & Brandy (Hennessy, Richot, Remy Martin)
+
+Wine (19 Crimes, Barefoot, 1659, 1865, Whispering Angel)
+
+Liqueur (Baileys, Amarula, Old Monk)
+
+Non-Alcoholic (Red Bull, Soda Water, Tonic)
+
+Product fields:
+{
+  "id": string,
+  "name": string,
+  "category_id": string,
+  "category_name": string,
+  "price": number,
+  "volume": string,
+  "alcohol_percentage": number,
+  "description": string,
+  "rating": number,
+  "featured": boolean,
+  "in_stock": boolean,
+  "image": "/images/...jpg",
+  "store": {
+    "name": string,
+    "location": string,
+    "contact": string
+  }
+}
+
+
+Store inside:
+
+/src/data/products.json
+/src/data/categories.json
+
+🛠 4. CORE FEATURES (Static)
+✔ Search
+
+Real-time search across all product names.
+
+✔ Category Filter
+
+Filter by liquor type using categories.json.
+
+✔ Price Range Slider
+
+Using a controlled state slider (Tailwind + custom handle).
+
+✔ Sorting
+
+Price (low → high)
+
+Price (high → low)
+
+Name A–Z
+
+Popularity (rating)
+
+✔ Pagination
+
+Local pagination → 12 items per page.
+
+✔ Cart (localStorage)
+
+Persisted under "liquor_cart" key.
+Includes animations and success toasts.
+
+✔ WhatsApp Checkout
+
+Format order message:
+
+Hello, I'd like to order:
+
+• Jack Daniels 750ml – KES 3,200 (x1)
+• Kenya Cane 250ml – KES 250 (x2)
+
+Total: KES 3,700
+Delivery Location: _______
+
+
+Redirect:
+
+https://wa.me/[Your Number]?text=<encoded>
+
+✔ Age Verification Modal
+
+Show once on first visit (“I am 18+”).
+Store flag in localStorage.
+
+✔ Skeleton Loading
+
+For images + product cards.
+
+✔ Error Handling
+
+Graceful fallback UI for missing images or undefined data.
+
+🧩 5. COMPONENTS NEEDED
+Layout & Navigation
+
+Navbar.tsx
+
+Footer.tsx
+
+AgeVerificationModal.tsx
+
+Catalog
+
+ProductCard.tsx
+
+ProductGrid.tsx
+
+SearchBar.tsx
+
+CategoryFilter.tsx
+
+PriceFilter.tsx
+
+SortSelect.tsx
+
+Cart
+
+CartDrawer.tsx
+
+CartItem.tsx
+
+Utilities
+
+useCart.ts
+
+whatsapp.ts
+
+formatCurrency.ts
+
+All components must include:
+
+data-testid="..."
+
+🗂 6. PROJECT STRUCTURE
+/src
+  /components
+  /pages
+  /data
+  /hooks
+  /utils
+  App.tsx
+  main.tsx
+/public
+  /images   (store downloaded product images)
+index.html
+tailwind.config.js
+vite.config.ts
+package.json
+
+🔒 7. TECH STACK
+
+React (with TypeScript)
+
+Vite
+
+TailwindCSS
+
+React Router
+
+React Hook Form
+
+Zod
+
+Lucide Icons
+
+localStorage (for cart + age gate)
+
+No backend.
+No API calls (except WhatsApp).
+No authentication.
+
+🧭 8. SEO & META TAGS
+
+Each page should include dynamic:
+
+<title>
+
+Meta description
+
+Open Graph tags
+
+Twitter Card tags
+
+🌍 9. DEPLOYMENT
+
+The site must build as a pure static export:
+
+npm run build
+
+
+Deploy to:
+
+Netlify
+
+Vercel
+
+GitHub Pages
+
+Replit Static Host
+
+No server required.
+
+🟢 START THE BUILD BY:
+
+Creating the data model in products.json (60+ items)
+
+Building the main layout with navbar + footer
+
+Implementing the Home page
+
+Implementing the Product Catalog with filters/search
+
+Implementing the Cart with localStorage
+
+Adding the WhatsApp checkout flow
+
+Styling with the Dark Luxury theme
+
+✅ This is the final optimized prompt for Replit.
+
+If you want, I can now generate:
+
+✅ The full products.json (60+ items)
+📁 The complete file structure scaffolding
+🎨 The homepage UI mockup
+📦 A complete curated /public/images list
+🧩 All React components pre-coded
+🔥 The entire project as ready-to-run code
