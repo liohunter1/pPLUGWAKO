@@ -14,6 +14,12 @@ export default function Cart() {
     redirectToWhatsApp(items, total);
   };
 
+  const handleCheckoutAndContinue = () => {
+    redirectToWhatsApp(items, total);
+    // User can continue shopping after placing order
+    // Cart items remain for placing multiple orders
+  };
+
   if (items.length === 0) {
     return (
       <Layout>
@@ -166,7 +172,7 @@ export default function Cart() {
                   data-testid="checkout-whatsapp"
                 >
                   <MessageCircle className="h-5 w-5" />
-                  Order via WhatsApp
+                  Place Order via WhatsApp
                 </Button>
 
                 <Button
@@ -178,10 +184,23 @@ export default function Cart() {
                     Continue Shopping
                   </Link>
                 </Button>
+
+                <div className="pt-2 border-t border-border">
+                  <Button
+                    onClick={handleCheckoutAndContinue}
+                    variant="outline"
+                    className="w-full border-[#25D366] text-[#25D366] hover:bg-[#25D366]/10"
+                    size="sm"
+                    data-testid="order-and-continue"
+                  >
+                    <MessageCircle className="h-4 w-4 mr-2" />
+                    Order & Continue Shopping
+                  </Button>
+                </div>
               </div>
 
               <p className="text-center text-xs text-muted-foreground mt-6">
-                Complete your order via WhatsApp. Our team will confirm availability and delivery details.
+                Click the WhatsApp button to place your order. Our team will confirm availability and delivery details. You can place multiple orders in the same session.
               </p>
             </div>
           </div>
