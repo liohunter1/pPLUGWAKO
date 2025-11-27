@@ -5,6 +5,7 @@ import { useCart } from '@/hooks/useCart';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import CartDrawer from '@/components/cart/CartDrawer';
+import CategoryNav from '@/components/layout/CategoryNav';
 
 const navLinks = [
   { href: '/', label: 'Home' },
@@ -43,6 +44,8 @@ export default function Navbar() {
               </Link>
             ))}
           </div>
+
+          <CategoryNav />
 
           <div className="flex items-center gap-4">
             <Link href="/products" data-testid="nav-search">
