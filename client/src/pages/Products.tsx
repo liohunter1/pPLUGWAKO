@@ -49,6 +49,10 @@ export default function Products() {
     setCurrentPage(1);
   }, [searchQuery, selectedCategory, sortBy, priceRange]);
 
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [currentPage]);
+
   const filteredProducts = useMemo(() => {
     let result = [...allProducts];
 
