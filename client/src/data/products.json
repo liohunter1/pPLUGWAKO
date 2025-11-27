@@ -467,7 +467,7 @@
     "rating": 4.5,
     "featured": true,
     "in_stock": true,
-    "image": "/images/kenya-cane-smooth.jpg",
+    "image": "/images/kenya-cane-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -508,7 +508,7 @@
     "rating": 4.5,
     "featured": false,
     "in_stock": true,
-    "image": "/images/kenya-cane-smooth.jpg",
+    "image": "/images/kenya-cane-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -606,7 +606,7 @@
     "rating": 4.9,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vsop.jpg",
+    "image": "/images/hennessy-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -720,7 +720,7 @@
     "rating": 4.6,
     "featured": false,
     "in_stock": true,
-    "image": "/images/kahlúa-coffee-750ml.jpg",
+    "image": "/images/kahlua-coffee-liqueur-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1009,7 +1009,7 @@
     "rating": 4.6,
     "featured": false,
     "in_stock": true,
-    "image": "/images/redbull-energy-250ml.jpg",
+    "image": "/images/red-bull-250ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1393,7 +1393,7 @@
     "rating": 4.512781122415271,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/chivas-regal-25yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1414,7 +1414,7 @@
     "rating": 4.655101099045755,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/chivas-regal-25yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1456,7 +1456,7 @@
     "rating": 4.578412453560922,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1477,7 +1477,7 @@
     "rating": 4.3989338417764,
     "featured": true,
     "in_stock": true,
-    "image": "/images/talisker-10yo-750ml.jpg",
+    "image": "/images/glenmorangie-10yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1498,7 +1498,7 @@
     "rating": 4.408519388745018,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -1519,7 +1519,7 @@
     "rating": 4.625719757814347,
     "featured": false,
     "in_stock": true,
-    "image": "/images/highland-park-18yo-750ml.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1582,7 +1582,7 @@
     "rating": 4.240503506140079,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1603,7 +1603,7 @@
     "rating": 4.085590377310616,
     "featured": false,
     "in_stock": true,
-    "image": "/images/royal-salute-21yo-750ml.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1708,7 +1708,7 @@
     "rating": 4.253019374716477,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/tito's-vodka-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1729,7 +1729,7 @@
     "rating": 4.621863856056832,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hendrick's-gin-750ml.jpg",
+    "image": "/images/aviation-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1771,7 +1771,7 @@
     "rating": 4.724110509257726,
     "featured": true,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/bombay-sapphire-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1813,7 +1813,7 @@
     "rating": 4.497605711226009,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/aviation-gin-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -1918,7 +1918,7 @@
     "rating": 4.43134342471498,
     "featured": true,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1960,7 +1960,7 @@
     "rating": 4.524162384775861,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/aberfeldy-12.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2023,7 +2023,7 @@
     "rating": 4.087467877011389,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/diplomatico-reserva-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2107,7 +2107,7 @@
     "rating": 4.585697250520983,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/johnnie-walker-double-black-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2170,7 +2170,7 @@
     "rating": 4.391178724767866,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/bacardi-limon-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2191,7 +2191,7 @@
     "rating": 4.6835559976977,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/bacardi-limon-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2212,7 +2212,7 @@
     "rating": 4.5245287896257755,
     "featured": true,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/hennessy-xo.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2233,7 +2233,7 @@
     "rating": 4.512811932521057,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/hennessy-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2254,7 +2254,7 @@
     "rating": 4.663976749673132,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-xo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2275,7 +2275,7 @@
     "rating": 4.592120151633887,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/martini-dolce-00-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2338,7 +2338,7 @@
     "rating": 4.0351564420140225,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2401,7 +2401,7 @@
     "rating": 4.699738914412871,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2422,7 +2422,7 @@
     "rating": 4.492916471856072,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/bacardi-limon-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2548,7 +2548,7 @@
     "rating": 4.696315882930284,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/kahlúa-coffee-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2695,7 +2695,7 @@
     "rating": 4.685333446495406,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/nederburg-cabernet-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2758,7 +2758,7 @@
     "rating": 4.209095422751442,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/yellow-tail-shiraz-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2800,7 +2800,7 @@
     "rating": 4.275466367166666,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2884,7 +2884,7 @@
     "rating": 4.598451221084271,
     "featured": false,
     "in_stock": true,
-    "image": "/images/veuve-clicquot-750ml.jpg",
+    "image": "/images/johnnie-walker-blue-label-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2905,7 +2905,7 @@
     "rating": 4.071718787308183,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/moët--chandon-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2926,7 +2926,7 @@
     "rating": 4.341326595951983,
     "featured": true,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/perrier-jouët-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2947,7 +2947,7 @@
     "rating": 4.250548379086262,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/dom-perignon-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -2968,7 +2968,7 @@
     "rating": 4.002479385535976,
     "featured": false,
     "in_stock": true,
-    "image": "/images/guinness-draught-330ml.jpg",
+    "image": "/images/corona-extra-330ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2989,7 +2989,7 @@
     "rating": 4.191917460246216,
     "featured": false,
     "in_stock": true,
-    "image": "/images/guinness-draught-330ml.jpg",
+    "image": "/images/corona-extra-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -3367,7 +3367,7 @@
     "rating": 4.130910849465166,
     "featured": false,
     "in_stock": true,
-    "image": "/images/redbull-watermelon-250ml.jpg",
+    "image": "/images/chang-beer-330ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -3703,7 +3703,7 @@
     "rating": 4.739306123929032,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/absolut-vodka-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -3724,7 +3724,7 @@
     "rating": 4.620862986586392,
     "featured": true,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/absolut-vodka-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -3745,7 +3745,7 @@
     "rating": 4.730794502754492,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/bombay-sapphire-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -3829,7 +3829,7 @@
     "rating": 4.719782199130454,
     "featured": true,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -3850,7 +3850,7 @@
     "rating": 4.750545411178059,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -3871,7 +3871,7 @@
     "rating": 4.598529402166131,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -3892,7 +3892,7 @@
     "rating": 4.557853793039153,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/courvoisier-xo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -3955,7 +3955,7 @@
     "rating": 4.608070043816626,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -3976,7 +3976,7 @@
     "rating": 4.5854837578274825,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/jack-daniel's-single-barrel-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -3997,7 +3997,7 @@
     "rating": 4.404516598858836,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/courvoisier-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4039,7 +4039,7 @@
     "rating": 4.430813573200672,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4060,7 +4060,7 @@
     "rating": 4.484801543469259,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/chamdor-red-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4081,7 +4081,7 @@
     "rating": 4.314365049600108,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-xo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4102,7 +4102,7 @@
     "rating": 4.674422183788444,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4123,7 +4123,7 @@
     "rating": 4.711581737171205,
     "featured": true,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/martell-vs-cognac-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4144,7 +4144,7 @@
     "rating": 4.422381658593029,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/richot-vsop-brandy-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4165,7 +4165,7 @@
     "rating": 4.537861898728899,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/richot-vsop-brandy-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4186,7 +4186,7 @@
     "rating": 4.662294957360443,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/richot-vsop-brandy-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4207,7 +4207,7 @@
     "rating": 4.357448869036487,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/richot-vsop-brandy-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4249,7 +4249,7 @@
     "rating": 4.649984497509746,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/yellow-tail-shiraz-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4270,7 +4270,7 @@
     "rating": 4.358598179166286,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/dom-perignon-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4375,7 +4375,7 @@
     "rating": 4.094328728613788,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/kahlua-coffee-liqueur-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4396,7 +4396,7 @@
     "rating": 4.473371483301438,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/belvedere-vodka-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4417,7 +4417,7 @@
     "rating": 4.48496943205397,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/belvedere-vodka-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4438,7 +4438,7 @@
     "rating": 4.276823647645182,
     "featured": true,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/bacardi-raspberry-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4480,7 +4480,7 @@
     "rating": 4.3403437922501915,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4501,7 +4501,7 @@
     "rating": 4.753526781133207,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/nederburg-cabernet-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4522,7 +4522,7 @@
     "rating": 4.073959020669148,
     "featured": false,
     "in_stock": true,
-    "image": "/images/opus-one-napa-valley.jpg",
+    "image": "/images/jack-daniels-honey-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4564,7 +4564,7 @@
     "rating": 4.5649215239920045,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/yellow-tail-shiraz-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4606,7 +4606,7 @@
     "rating": 4.096290820299199,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/penfolds-grange-shiraz.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4627,7 +4627,7 @@
     "rating": 4.388123288185193,
     "featured": false,
     "in_stock": true,
-    "image": "/images/cloudy-bay-sauvignon.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4648,7 +4648,7 @@
     "rating": 4.577133260035562,
     "featured": true,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/bombay-sapphire-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4669,7 +4669,7 @@
     "rating": 4.132951634410399,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4774,7 +4774,7 @@
     "rating": 4.227027231199403,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/pilsner-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4795,7 +4795,7 @@
     "rating": 4.63936593487501,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/tusker-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4816,7 +4816,7 @@
     "rating": 4.367829985000086,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/tusker-lager-330ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -4837,7 +4837,7 @@
     "rating": 4.771228533947104,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/tusker-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -4858,7 +4858,7 @@
     "rating": 4.4664361082913775,
     "featured": true,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/stella-artois-330ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -4900,7 +4900,7 @@
     "rating": 4.169450872889065,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/corona-extra-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5152,7 +5152,7 @@
     "rating": 4.737164251711121,
     "featured": false,
     "in_stock": true,
-    "image": "/images/redbull-watermelon-250ml.jpg",
+    "image": "/images/asahi-super-dry-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5299,7 +5299,7 @@
     "rating": 4.749391858395243,
     "featured": true,
     "in_stock": true,
-    "image": "/images/macallan-12yo-750ml.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5320,7 +5320,7 @@
     "rating": 4.660632285353142,
     "featured": false,
     "in_stock": true,
-    "image": "/images/macallan-12yo-750ml.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5341,7 +5341,7 @@
     "rating": 4.300814209845607,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5362,7 +5362,7 @@
     "rating": 4.291190687347331,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/glenmorangie-10yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5383,7 +5383,7 @@
     "rating": 4.14923252864832,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/chivas-regal-25yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5404,7 +5404,7 @@
     "rating": 4.465618333245188,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5446,7 +5446,7 @@
     "rating": 4.684534682529777,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/bunnahabhain-12yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5488,7 +5488,7 @@
     "rating": 4.165815565184082,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5509,7 +5509,7 @@
     "rating": 4.328643764209502,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/bombay-sapphire-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5551,7 +5551,7 @@
     "rating": 4.218170528813123,
     "featured": true,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/4th-street-red-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5593,7 +5593,7 @@
     "rating": 4.469874983288092,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/bacardi-limon-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5614,7 +5614,7 @@
     "rating": 4.133836179404832,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5635,7 +5635,7 @@
     "rating": 4.322989737715061,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/johnnie-walker-double-black-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5698,7 +5698,7 @@
     "rating": 4.532380337760087,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/richot-vsop-brandy-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5719,7 +5719,7 @@
     "rating": 4.452782039275243,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/richot-vsop-brandy-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5739,7 +5739,7 @@
     "rating": 4.681648559171146,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/bacardi-raspberry-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5761,7 +5761,7 @@
     "rating": 4.753044046444261,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5782,7 +5782,7 @@
     "rating": 4.180760790011352,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/jack-daniel's-peach-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5803,7 +5803,7 @@
     "rating": 4.7031795419113305,
     "featured": true,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/robert-mondavi-cabernet.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5824,7 +5824,7 @@
     "rating": 4.388237125951377,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/nederburg-cabernet-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -5845,7 +5845,7 @@
     "rating": 4.626964953029809,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/nederburg-cabernet-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -5866,7 +5866,7 @@
     "rating": 4.539124289197757,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/nederburg-cabernet-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -5908,7 +5908,7 @@
     "rating": 4.19050994751317,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/19-crimes-red-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6202,7 +6202,7 @@
     "rating": 4.5315662571087465,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/bunnahabhain-12yo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6223,7 +6223,7 @@
     "rating": 4.733042632891905,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/kahlua-coffee-liqueur-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6265,7 +6265,7 @@
     "rating": 4.382207924278717,
     "featured": false,
     "in_stock": true,
-    "image": "/images/talisker-10yo-750ml.jpg",
+    "image": "/images/chivas-regal-25yo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6286,7 +6286,7 @@
     "rating": 4.245012231383817,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/bunnahabhain-12yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6307,7 +6307,7 @@
     "rating": 4.485559469193945,
     "featured": true,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/kahlua-coffee-liqueur-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6328,7 +6328,7 @@
     "rating": 4.3964871450887495,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6349,7 +6349,7 @@
     "rating": 4.89890459558139,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/bunnahabhain-12yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6391,7 +6391,7 @@
     "rating": 4.489300526193625,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/barefoot-pink-moscato-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6412,7 +6412,7 @@
     "rating": 4.595388938327242,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/bombay-sapphire-gin-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6433,7 +6433,7 @@
     "rating": 4.382623264340796,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/jack-daniels-honey-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6454,7 +6454,7 @@
     "rating": 4.755854995982339,
     "featured": true,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/jack-daniels-honey-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6475,7 +6475,7 @@
     "rating": 4.820307009597413,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6559,7 +6559,7 @@
     "rating": 4.881836858088555,
     "featured": false,
     "in_stock": true,
-    "image": "/images/ciroc-pineapple-750ml.jpg",
+    "image": "/images/appleton-estate-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6580,7 +6580,7 @@
     "rating": 4.264391447800209,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/diplomatico-reserva-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6601,7 +6601,7 @@
     "rating": 4.217960635976961,
     "featured": true,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/ron-zacapa-23-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6622,7 +6622,7 @@
     "rating": 4.445043134427767,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/mount-gay-eclipse-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6643,7 +6643,7 @@
     "rating": 4.891495105091381,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/appleton-estate-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6664,7 +6664,7 @@
     "rating": 4.740019166424091,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/appleton-estate-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6685,7 +6685,7 @@
     "rating": 4.482564000742636,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6706,7 +6706,7 @@
     "rating": 4.397910682090825,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6727,7 +6727,7 @@
     "rating": 4.665464550928634,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/havana-club-3-year-rum-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6748,7 +6748,7 @@
     "rating": 4.292735942468543,
     "featured": true,
     "in_stock": true,
-    "image": "/images/remy-martin-1738-750ml.jpg",
+    "image": "/images/martini-dolce-00-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6768,7 +6768,7 @@
     "rating": 4.578586298407345,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-vsop-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6790,7 +6790,7 @@
     "rating": 4.415900970110569,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-vsop-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6853,7 +6853,7 @@
     "rating": 4.240041104121523,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/1865-chenin-blanc-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6895,7 +6895,7 @@
     "rating": 4.156289869079237,
     "featured": true,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/19-crimes-red-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -6916,7 +6916,7 @@
     "rating": 4.616587021621462,
     "featured": false,
     "in_stock": true,
-    "image": "/images/1659-red.jpg",
+    "image": "/images/veuve-clicquot-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -6958,7 +6958,7 @@
     "rating": 4.682196412222297,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/heineken-lager-330ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -7000,7 +7000,7 @@
     "rating": 4.6125829865289445,
     "featured": false,
     "in_stock": true,
-    "image": "/images/heineken-330ml.jpg",
+    "image": "/images/heineken-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -7021,7 +7021,7 @@
     "rating": 4.770567060118093,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/stella-artois-330ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -7042,7 +7042,7 @@
     "rating": 4.651395393489475,
     "featured": true,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/johnnie-green.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -7063,7 +7063,7 @@
     "rating": 4.403808215192647,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/jack-daniel's-no.-27-gold-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -7084,7 +7084,7 @@
     "rating": 4.83348476735817,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/johnnie-walker-blue-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -7105,7 +7105,7 @@
     "rating": 4.6581694815738155,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/absolut-vodka-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -7168,7 +7168,7 @@
     "rating": 4.749785031360617,
     "featured": true,
     "in_stock": true,
-    "image": "/images/smirnoff-vodka-750ml.jpg",
+    "image": "/images/bacardi-raspberry-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -7231,7 +7231,7 @@
     "rating": 4.813353595356651,
     "featured": false,
     "in_stock": true,
-    "image": "/images/bacardi-white.jpg",
+    "image": "/images/kenya-cane-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -7273,7 +7273,7 @@
     "rating": 4.579308344977808,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/pilsner-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -7294,7 +7294,7 @@
     "rating": 4.20934176585315,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/tusker-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -7315,7 +7315,7 @@
     "rating": 4.7474367576475665,
     "featured": true,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/tusker-lager-330ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -7336,7 +7336,7 @@
     "rating": 4.129076852135477,
     "featured": false,
     "in_stock": true,
-    "image": "/images/tusker-lager-500ml.jpg",
+    "image": "/images/tusker-lager-330ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -7357,7 +7357,7 @@
     "rating": 4.113217521588885,
     "featured": false,
     "in_stock": true,
-    "image": "/images/guinness-draught-330ml.jpg",
+    "image": "/images/guinness-extra-500ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -7378,7 +7378,7 @@
     "rating": 4.376428635794129,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/glenmorangie-10yo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -7399,7 +7399,7 @@
     "rating": 4.372161011154179,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/glenmorangie-10yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -7420,7 +7420,7 @@
     "rating": 4.70104625791985,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/glenmorangie-10yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
