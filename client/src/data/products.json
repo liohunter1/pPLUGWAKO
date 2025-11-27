@@ -1519,7 +1519,7 @@
     "rating": 4.625719757814347,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/highland-park-18yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
@@ -1540,7 +1540,7 @@
     "rating": 4.173884915245602,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/glenmorangie-10yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1561,7 +1561,7 @@
     "rating": 4.350655895348725,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/bunnahabhain-12yo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -1603,7 +1603,7 @@
     "rating": 4.085590377310616,
     "featured": false,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/royal-salute-21yo-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -1624,7 +1624,7 @@
     "rating": 4.505397602239989,
     "featured": true,
     "in_stock": true,
-    "image": "/images/jack-daniels-old-no-7-750ml.jpg",
+    "image": "/images/monkey-shoulder-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2317,7 +2317,7 @@
     "rating": 4.670049448807926,
     "featured": false,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/courvoisier-xo-750ml.jpg",
     "store": {
       "name": "Local Store Eastleigh",
       "location": "Eastleigh, Nairobi",
@@ -2359,7 +2359,7 @@
     "rating": 4.0964895977790805,
     "featured": true,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/martell-cordon-bleu-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -2485,7 +2485,7 @@
     "rating": 4.291830590477304,
     "featured": false,
     "in_stock": true,
-    "image": "/images/baileys.jpg",
+    "image": "/images/grand-marnier-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
@@ -6748,7 +6748,7 @@
     "rating": 4.292735942468543,
     "featured": true,
     "in_stock": true,
-    "image": "/images/hennessy-vs.jpg",
+    "image": "/images/remy-martin-1738-750ml.jpg",
     "store": {
       "name": "Premium Liquor CBD",
       "location": "CBD, Nairobi",
