@@ -1,0 +1,47 @@
+[
+  {
+    "id": "westlands",
+    "name": "Premium Liquor Westlands",
+    "location": "Westlands",
+    "address": "Sarit Centre, Karuna Road, Westlands, Nairobi",
+    "phone": "+254 700 123 456",
+    "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
+    "coordinates": { "lat": -1.2634, "lng": 36.8028 }
+  },
+  {
+    "id": "cbd",
+    "name": "Premium Liquor CBD",
+    "location": "CBD",
+    "address": "Kenyatta Avenue, Central Business District, Nairobi",
+    "phone": "+254 700 123 457",
+    "hours": "Mon-Sat: 9AM-9PM, Sun: 11AM-7PM",
+    "coordinates": { "lat": -1.2833, "lng": 36.8219 }
+  },
+  {
+    "id": "kilimani",
+    "name": "Premium Liquor Kilimani",
+    "location": "Kilimani",
+    "address": "Yaya Centre, Argwings Kodhek Road, Kilimani, Nairobi",
+    "phone": "+254 700 123 458",
+    "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
+    "coordinates": { "lat": -1.2921, "lng": 36.7896 }
+  },
+  {
+    "id": "karen",
+    "name": "Premium Liquor Karen",
+    "location": "Karen",
+    "address": "The Hub Karen, Dagoretti Road, Karen, Nairobi",
+    "phone": "+254 700 123 459",
+    "hours": "Mon-Sat: 10AM-9PM, Sun: 11AM-7PM",
+    "coordinates": { "lat": -1.3195, "lng": 36.7116 }
+  },
+  {
+    "id": "mombasa",
+    "name": "Premium Liquor Mombasa",
+    "location": "Mombasa",
+    "address": "Nyali Centre, Links Road, Nyali, Mombasa",
+    "phone": "+254 700 123 460",
+    "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
+    "coordinates": { "lat": -4.0435, "lng": 39.6682 }
+  }
+]
