@@ -124,7 +124,7 @@ export default function Products() {
     <div className="space-y-6">
       <div>
         <h3 className="font-medium text-white mb-3">Price Range</h3>
-        <div className="px-2">
+        <div className="px-2 space-y-4">
           <Slider
             value={priceRange}
             min={minPrice}
@@ -134,7 +134,35 @@ export default function Products() {
             className="mb-4"
             data-testid="filter-price-slider"
           />
-          <div className="flex justify-between text-sm text-muted-foreground">
+          <div className="grid grid-cols-2 gap-2">
+            <div>
+              <label className="text-xs text-muted-foreground mb-1 block">Min</label>
+              <Input
+                type="number"
+                value={priceRange[0]}
+                onChange={(e) => {
+                  const val = Math.max(minPrice, parseInt(e.target.value) || minPrice);
+                  setPriceRange([val, priceRange[1]]);
+                }}
+                className="bg-muted border-border text-white text-sm"
+                data-testid="filter-price-min"
+              />
+            </div>
+            <div>
+              <label className="text-xs text-muted-foreground mb-1 block">Max</label>
+              <Input
+                type="number"
+                value={priceRange[1]}
+                onChange={(e) => {
+                  const val = Math.min(maxPrice, parseInt(e.target.value) || maxPrice);
+                  setPriceRange([priceRange[0], val]);
+                }}
+                className="bg-muted border-border text-white text-sm"
+                data-testid="filter-price-max"
+              />
+            </div>
+          </div>
+          <div className="flex justify-between text-xs text-muted-foreground">
             <span>KSh {priceRange[0].toLocaleString()}</span>
             <span>KSh {priceRange[1].toLocaleString()}</span>
           </div>

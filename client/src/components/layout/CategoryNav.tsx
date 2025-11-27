@@ -64,11 +64,10 @@ function CategoryNavItem({ item, onLinkClick }: CategoryNavItemProps) {
   }
 
   return (
-    <div className="relative group">
+    <div className="relative group" onMouseLeave={() => setIsOpen(false)}>
       <button
         onClick={() => setIsOpen(!isOpen)}
         onMouseEnter={() => setIsOpen(true)}
-        onMouseLeave={() => setIsOpen(false)}
         className="text-sm font-medium text-muted-foreground hover:text-primary focus:text-primary focus:outline-none transition-colors active:text-primary flex items-center gap-1 cursor-pointer"
         data-testid={`category-dropdown-${item.id}`}
         aria-expanded={isOpen}
@@ -82,15 +81,15 @@ function CategoryNavItem({ item, onLinkClick }: CategoryNavItemProps) {
         <div 
           className="absolute left-0 mt-0 w-48 bg-card border border-border rounded-lg shadow-lg py-2 z-50" 
           data-testid={`category-submenu-${item.id}`}
-          onClick={(e) => e.stopPropagation()}
+          onMouseEnter={() => setIsOpen(true)}
         >
           {item.children?.map(child => (
             <Link
               key={child.id}
               href={`/products?category=${child.id}`}
-              className="block px-4 py-2 text-sm text-muted-foreground hover:text-primary focus:text-primary focus:outline-none hover:bg-muted/50 focus:bg-muted/50 transition-colors active:text-primary cursor-pointer"
+              className="block px-4 py-2 text-sm text-muted-foreground hover:text-primary hover:bg-muted/50 transition-colors cursor-pointer"
               data-testid={`subcategory-link-${child.id}`}
-              onClick={(e) => {
+              onClick={() => {
                 setIsOpen(false);
                 onLinkClick?.();
               }}
