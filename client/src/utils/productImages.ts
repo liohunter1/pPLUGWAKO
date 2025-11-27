@@ -58,6 +58,16 @@ const productImageMap: Record<string, string> = {
   'codorniu-zero-750ml': '/images/codorniu-zero-750ml.jpg',
   'codorniu-zero-rose-750ml': '/images/codorniu-zero-rose-750ml.jpg',
   'martini-dolce-00-750ml': '/images/martini-dolce-00-750ml.jpg',
+  'guinness-draught-330ml': '/images/guinness-draught-330ml.jpg',
+  'johnnie-walker-red-label-750ml': '/images/johnnie-walker-red-label-750ml.jpg',
+  'gordons-gin-750ml': '/images/gordons-gin-750ml.jpg',
+  'tusker-lager-330ml': '/images/tusker-lager-330ml.jpg',
+  'tusker-premium-500ml': '/images/tusker-premium-500ml.jpg',
+  'tusker-lite-330ml': '/images/tusker-lite-330ml.jpg',
+  'white-cap-lager-330ml': '/images/white-cap-lager-330ml.jpg',
+  'pilsner-lager-330ml': '/images/pilsner-lager-330ml.jpg',
+  'macallan-12yo-750ml': '/images/macallan-12yo-750ml.jpg',
+  'hennessy-vsop-750ml': '/images/hennessy-vsop-750ml.jpg',
 };
 
 const categoryImages: Record<string, string[]> = {

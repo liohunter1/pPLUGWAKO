@@ -1167,5 +1167,215 @@
       "location": "CBD, Nairobi",
       "contact": "+254 700 123 457"
     }
+  },
+  {
+    "id": "guinness-draught-330ml",
+    "name": "Guinness Draught 330ml",
+    "brand": "Guinness",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 280,
+    "volume": "330ml",
+    "alcohol_percentage": 4.2,
+    "description": "Classic Irish stout with smooth, creamy head. Rich and malty.",
+    "rating": 4.7,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/guinness-draught-330ml.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    },
+    "source": "Diageo Kenya"
+  },
+  {
+    "id": "johnnie-walker-red-label-750ml",
+    "name": "Johnnie Walker Red Label 750ml",
+    "brand": "Johnnie Walker",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 2500,
+    "volume": "750ml",
+    "alcohol_percentage": 40,
+    "description": "World's best-selling blended Scotch whisky. Smooth and balanced.",
+    "rating": 4.6,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/johnnie-walker-red-label-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    },
+    "source": "Diageo Kenya"
+  },
+  {
+    "id": "gordons-gin-750ml",
+    "name": "Gordon's London Dry Gin 750ml",
+    "brand": "Gordon's",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 2200,
+    "volume": "750ml",
+    "alcohol_percentage": 37.5,
+    "description": "Premium London Dry Gin with juniper and botanicals. Perfect for G&T.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/gordons-gin-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    },
+    "source": "Diageo Kenya"
+  },
+  {
+    "id": "tusker-lager-330ml",
+    "name": "Tusker Lager 330ml",
+    "brand": "Tusker",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 200,
+    "volume": "330ml",
+    "alcohol_percentage": 4.2,
+    "description": "Kenya's iconic lager beer. Refreshing, crisp and smooth.",
+    "rating": 4.6,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/tusker-lager-330ml.jpg",
+    "store": {
+      "name": "Local Store Eastleigh",
+      "location": "Eastleigh, Nairobi",
+      "contact": "+254 700 123 458"
+    },
+    "source": "EABL - Tusker Brewery"
+  },
+  {
+    "id": "tusker-premium-500ml",
+    "name": "Tusker Premium 500ml",
+    "brand": "Tusker",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 300,
+    "volume": "500ml",
+    "alcohol_percentage": 5,
+    "description": "Premium Kenyan lager with extra body. Bold and satisfying.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/tusker-premium-500ml.jpg",
+    "store": {
+      "name": "Local Store Eastleigh",
+      "location": "Eastleigh, Nairobi",
+      "contact": "+254 700 123 458"
+    },
+    "source": "EABL - Tusker Brewery"
+  },
+  {
+    "id": "tusker-lite-330ml",
+    "name": "Tusker Lite 330ml",
+    "brand": "Tusker",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 200,
+    "volume": "330ml",
+    "alcohol_percentage": 3.5,
+    "description": "Light lager with reduced calories. Perfect everyday beer.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/tusker-lite-330ml.jpg",
+    "store": {
+      "name": "Local Store Eastleigh",
+      "location": "Eastleigh, Nairobi",
+      "contact": "+254 700 123 458"
+    },
+    "source": "EABL - Tusker Brewery"
+  },
+  {
+    "id": "white-cap-lager-330ml",
+    "name": "White Cap Lager 330ml",
+    "brand": "White Cap",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 200,
+    "volume": "330ml",
+    "alcohol_percentage": 4.3,
+    "description": "EABL's quality lager with clean, refreshing taste.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/white-cap-lager-330ml.jpg",
+    "store": {
+      "name": "Local Store Eastleigh",
+      "location": "Eastleigh, Nairobi",
+      "contact": "+254 700 123 458"
+    },
+    "source": "EABL - Tusker Brewery"
+  },
+  {
+    "id": "pilsner-lager-330ml",
+    "name": "Pilsner Lager 330ml",
+    "brand": "Pilsner",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 200,
+    "volume": "330ml",
+    "alcohol_percentage": 4.7,
+    "description": "Premium pilsner-style lager from EABL. Crisp and balanced.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/pilsner-lager-330ml.jpg",
+    "store": {
+      "name": "Local Store Eastleigh",
+      "location": "Eastleigh, Nairobi",
+      "contact": "+254 700 123 458"
+    },
+    "source": "EABL - Tusker Brewery"
+  },
+  {
+    "id": "macallan-12yo-750ml",
+    "name": "The Macallan 12 Year Old 750ml",
+    "brand": "Macallan",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 8500,
+    "volume": "750ml",
+    "alcohol_percentage": 43,
+    "description": "Premium single malt Scotch whisky. Elegant and smooth.",
+    "rating": 4.8,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/macallan-12yo-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    },
+    "source": "Vintage Liquor Kenya"
+  },
+  {
+    "id": "hennessy-vsop-750ml",
+    "name": "Hennessy VSOP 750ml",
+    "brand": "Hennessy",
+    "category_id": "cognac-brandy",
+    "category_name": "Cognac & Brandy",
+    "price": 5800,
+    "volume": "750ml",
+    "alcohol_percentage": 40,
+    "description": "Fine cognac with vanilla and fruit notes. Sophisticated.",
+    "rating": 4.7,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/hennessy-vsop-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    },
+    "source": "Vintage Liquor Kenya"
   }
 ]
