@@ -45,7 +45,7 @@ export default function Navbar() {
             ))}
           </div>
 
-          <CategoryNav />
+          <CategoryNav onLinkClick={() => setMobileMenuOpen(false)} />
 
           <div className="flex items-center gap-4">
             <Link href="/products" data-testid="nav-search">
