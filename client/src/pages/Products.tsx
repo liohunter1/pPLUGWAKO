@@ -69,16 +69,16 @@ export default function Products() {
 
     switch (sortBy) {
       case 'price-asc':
-        result.sort((a, b) => a.price - b.price);
+        result.sort((a, b) => (a.price || 0) - (b.price || 0));
         break;
       case 'price-desc':
-        result.sort((a, b) => b.price - a.price);
+        result.sort((a, b) => (b.price || 0) - (a.price || 0));
         break;
       case 'name-asc':
-        result.sort((a, b) => a.name.localeCompare(b.name));
+        result.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
         break;
       case 'rating':
-        result.sort((a, b) => b.rating - a.rating);
+        result.sort((a, b) => (b.rating || 0) - (a.rating || 0));
         break;
       case 'featured':
       default:
