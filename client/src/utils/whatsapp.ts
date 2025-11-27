@@ -29,7 +29,7 @@ export function getWhatsAppUrl(phoneNumber: string, message: string): string {
   return `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
 }
 
-export function redirectToWhatsApp(items: CartItem[], total: number, phoneNumber: string = '254700123456'): void {
+export function redirectToWhatsApp(items: CartItem[], total: number, phoneNumber: string = '254759565307'): void {
   const message = generateWhatsAppMessage(items, total);
   const url = getWhatsAppUrl(phoneNumber, message);
   window.open(url, '_blank');
