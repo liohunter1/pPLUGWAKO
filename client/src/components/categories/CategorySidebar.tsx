@@ -10,8 +10,8 @@ interface CategoryNode {
 }
 
 interface CategorySidebarProps {
-  onCategorySelect: (categoryId: string | null) => void;
-  selectedCategory: string | null;
+  onCategorySelect: (categoryId: string) => void;
+  selectedCategory: string;
 }
 
 const categories: CategoryNode[] = [
