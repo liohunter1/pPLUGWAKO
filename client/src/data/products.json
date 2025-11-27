@@ -1148,5 +1148,24 @@
       "location": "Westlands, Nairobi",
       "contact": "+254 700 123 456"
     }
+  },
+  {
+    "id": "redbull-watermelon-250ml",
+    "name": "Red Bull Watermelon 250ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 350,
+    "volume": "250ml",
+    "alcohol_percentage": 0,
+    "description": "Red Bull Energy Drink Watermelon edition. Vitalizes body and mind with high caffeine content.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/redbull-watermelon-250ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
   }
 ]
