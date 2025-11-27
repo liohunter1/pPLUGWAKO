@@ -108,6 +108,9 @@ export default function Footer() {
             © {new Date().getFullYear()} pPLUGWAKO. All rights reserved.
           </p>
           <div className="flex gap-6">
+            <Link href="/legal" className="text-muted-foreground hover:text-primary transition-colors text-sm" data-testid="footer-legal">
+              Legal Notice
+            </Link>
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm" data-testid="footer-privacy">
               Privacy Policy
             </a>
