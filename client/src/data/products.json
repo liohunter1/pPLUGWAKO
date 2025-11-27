@@ -1211,27 +1211,6 @@
     "source": "Diageo Kenya"
   },
   {
-    "id": "gordons-gin-750ml",
-    "name": "Gordon's London Dry Gin 750ml",
-    "brand": "Gordon's",
-    "category_id": "vodka-gin",
-    "category_name": "Vodka & Gin",
-    "price": 2200,
-    "volume": "750ml",
-    "alcohol_percentage": 37.5,
-    "description": "Premium London Dry Gin with juniper and botanicals. Perfect for G&T.",
-    "rating": 4.5,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/gordons-gin-750ml.jpg",
-    "store": {
-      "name": "Premium Liquor Westlands",
-      "location": "Westlands, Nairobi",
-      "contact": "+254 700 123 456"
-    },
-    "source": "Diageo Kenya"
-  },
-  {
     "id": "tusker-lager-330ml",
     "name": "Tusker Lager 330ml",
     "brand": "Tusker",
@@ -1354,27 +1333,6 @@
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
       "contact": "+254 700 123 456"
-    },
-    "source": "Vintage Liquor Kenya"
-  },
-  {
-    "id": "hennessy-vsop-750ml",
-    "name": "Hennessy VSOP 750ml",
-    "brand": "Hennessy",
-    "category_id": "cognac-brandy",
-    "category_name": "Cognac & Brandy",
-    "price": 5800,
-    "volume": "750ml",
-    "alcohol_percentage": 40,
-    "description": "Fine cognac with vanilla and fruit notes. Sophisticated.",
-    "rating": 4.7,
-    "featured": true,
-    "in_stock": true,
-    "image": "/images/hennessy-vsop-750ml.jpg",
-    "store": {
-      "name": "Premium Liquor CBD",
-      "location": "CBD, Nairobi",
-      "contact": "+254 700 123 457"
     },
     "source": "Vintage Liquor Kenya"
   },
@@ -5806,7 +5764,8 @@
       "location": "Westlands, Nairobi",
       "contact": "+254 700 123 456"
     },
-    "source": "Diageo Kenya"
+    "source": "Diageo Kenya",
+    "volume": "750ml"
   },
   {
     "id": "malibu-rum-750ml",
@@ -6820,7 +6779,7 @@
     "id": "courvoisier-exclusif-750ml",
     "name": "Courvoisier Exclusif 750ml",
     "brand": "Courvoisier",
-    "category_id": "courvoisier",
+    "category_id": "cognac-brandy",
     "price": 6500,
     "volume": "750ml",
     "alcohol_percentage": 40,
