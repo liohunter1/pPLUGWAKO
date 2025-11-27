@@ -937,139 +937,6 @@
     }
   },
   {
-    "id": "redbull-250ml",
-    "name": "Red Bull Energy Drink",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 200,
-    "volume": "250ml",
-    "alcohol_percentage": 0,
-    "description": "Energy drink with taurine and caffeine for an instant boost.",
-    "rating": 4.6,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/redbull.jpg",
-    "store": {
-      "name": "Premium Liquor Westlands",
-      "location": "Westlands, Nairobi",
-      "contact": "+254 700 123 456"
-    }
-  },
-  {
-    "id": "schweppes-tonic-330ml",
-    "name": "Schweppes Tonic Water",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 120,
-    "volume": "330ml",
-    "alcohol_percentage": 0,
-    "description": "Classic tonic water perfect for gin and tonics.",
-    "rating": 4.4,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/schweppes-tonic.jpg",
-    "store": {
-      "name": "Premium Liquor CBD",
-      "location": "CBD, Nairobi",
-      "contact": "+254 700 123 457"
-    }
-  },
-  {
-    "id": "schweppes-ginger-ale-330ml",
-    "name": "Schweppes Ginger Ale",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 120,
-    "volume": "330ml",
-    "alcohol_percentage": 0,
-    "description": "Refreshing ginger ale perfect for mixing.",
-    "rating": 4.5,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/schweppes-ginger.jpg",
-    "store": {
-      "name": "Premium Liquor Westlands",
-      "location": "Westlands, Nairobi",
-      "contact": "+254 700 123 456"
-    }
-  },
-  {
-    "id": "soda-water-330ml",
-    "name": "Soda Water",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 80,
-    "volume": "330ml",
-    "alcohol_percentage": 0,
-    "description": "Carbonated water for mixing cocktails.",
-    "rating": 4.2,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/soda-water.jpg",
-    "store": {
-      "name": "Premium Liquor CBD",
-      "location": "CBD, Nairobi",
-      "contact": "+254 700 123 457"
-    }
-  },
-  {
-    "id": "coca-cola-500ml",
-    "name": "Coca-Cola",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 100,
-    "volume": "500ml",
-    "alcohol_percentage": 0,
-    "description": "Classic cola soft drink perfect for mixing.",
-    "rating": 4.7,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/coca-cola.jpg",
-    "store": {
-      "name": "Premium Liquor Westlands",
-      "location": "Westlands, Nairobi",
-      "contact": "+254 700 123 456"
-    }
-  },
-  {
-    "id": "sprite-500ml",
-    "name": "Sprite",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 100,
-    "volume": "500ml",
-    "alcohol_percentage": 0,
-    "description": "Lemon-lime soda perfect for refreshing cocktails.",
-    "rating": 4.6,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/sprite.jpg",
-    "store": {
-      "name": "Premium Liquor CBD",
-      "location": "CBD, Nairobi",
-      "contact": "+254 700 123 457"
-    }
-  },
-  {
-    "id": "fanta-orange-500ml",
-    "name": "Fanta Orange",
-    "category_id": "non-alcoholic",
-    "category_name": "Non-Alcoholic",
-    "price": 100,
-    "volume": "500ml",
-    "alcohol_percentage": 0,
-    "description": "Orange-flavored soda with a fruity taste.",
-    "rating": 4.5,
-    "featured": false,
-    "in_stock": true,
-    "image": "/images/fanta.jpg",
-    "store": {
-      "name": "Premium Liquor Westlands",
-      "location": "Westlands, Nairobi",
-      "contact": "+254 700 123 456"
-    }
-  },
-  {
     "id": "konyagi-750ml",
     "name": "Konyagi Spirit",
     "category_id": "rum",
@@ -1150,6 +1017,25 @@
     }
   },
   {
+    "id": "redbull-250ml",
+    "name": "Red Bull Energy Drink",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 200,
+    "volume": "250ml",
+    "alcohol_percentage": 0,
+    "description": "Energy drink with taurine and caffeine for an instant boost.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/redbull.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
     "id": "redbull-watermelon-250ml",
     "name": "Red Bull Watermelon 250ml",
     "category_id": "non-alcoholic",
@@ -1185,6 +1071,101 @@
       "name": "Premium Liquor Westlands",
       "location": "Westlands, Nairobi",
       "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "chamdor-red-750ml",
+    "name": "Chamdor Red 750ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 780,
+    "volume": "750ml",
+    "alcohol_percentage": 0,
+    "description": "Premium non-alcoholic red wine from Chamdor. Refreshing and sophisticated.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/chamdor-red-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "chamdor-white-750ml",
+    "name": "Chamdor White 750ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 780,
+    "volume": "750ml",
+    "alcohol_percentage": 0,
+    "description": "Premium non-alcoholic white wine from Chamdor. Crisp and refreshing.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/chamdor-white-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "codorniu-zero-750ml",
+    "name": "Codorniu Zero 750ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 1750,
+    "volume": "750ml",
+    "alcohol_percentage": 0,
+    "description": "Premium alcohol-free sparkling wine from Codorniu. Complex and elegant.",
+    "rating": 4.6,
+    "featured": true,
+    "in_stock": false,
+    "image": "/images/codorniu-zero-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "codorniu-zero-rose-750ml",
+    "name": "Codorniu Zero Rose 750ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 1750,
+    "volume": "750ml",
+    "alcohol_percentage": 0,
+    "description": "Premium alcohol-free sparkling rosé wine from Codorniu. Delicate and fruity.",
+    "rating": 4.6,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/codorniu-zero-rose-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "martini-dolce-00-750ml",
+    "name": "Martini Dolce 0.0 750ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 1100,
+    "volume": "750ml",
+    "alcohol_percentage": 0,
+    "description": "Martini's premium alcohol-free aperitif. Smooth and balanced.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": false,
+    "image": "/images/martini-dolce-00-750ml.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
     }
   }
 ]
