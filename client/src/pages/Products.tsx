@@ -173,15 +173,26 @@ export default function Products() {
   return (
     <Layout>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="flex flex-col lg:flex-row gap-8">
-          <aside className="hidden lg:block w-64 flex-shrink-0" data-testid="desktop-filters">
-            <div className="sticky top-24 bg-card rounded-xl border border-border p-6">
+        <div className="grid grid-cols-1 lg:grid-cols-5 gap-8">
+          {/* Left Sidebar - Categories */}
+          <aside className="hidden lg:block lg:col-span-1" data-testid="desktop-categories">
+            <div className="sticky top-24">
+              <CategorySidebar 
+                onCategorySelect={setSelectedCategory}
+                selectedCategory={selectedCategory}
+              />
+            </div>
+          </aside>
+
+          {/* Filters Section - Below Categories */}
+          <aside className="hidden lg:block w-full lg:col-span-1" data-testid="desktop-filters">
+            <div className="sticky top-80 bg-card rounded-xl border border-border p-6">
               <h2 className="font-serif text-xl font-bold text-white mb-6">Filters</h2>
               <FilterContent />
             </div>
           </aside>
 
-          <main className="flex-1">
+          <main className="lg:col-span-3">
             <div className="flex flex-col sm:flex-row gap-4 mb-6">
               <div className="relative flex-1">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />

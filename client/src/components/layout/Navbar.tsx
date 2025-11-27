@@ -101,6 +101,17 @@ export default function Navbar() {
                   {link.label}
                 </Link>
               ))}
+              
+              <div className="border-t border-border pt-4 mt-4">
+                <h3 className="font-medium text-white text-sm mb-2">Categories</h3>
+                <div className="flex flex-col gap-2 text-xs">
+                  <Link href="/products?category=whisky" className="text-muted-foreground hover:text-primary">Whisky</Link>
+                  <Link href="/products?category=spirits" className="text-muted-foreground hover:text-primary">Spirits</Link>
+                  <Link href="/products?category=wine" className="text-muted-foreground hover:text-primary">Wine</Link>
+                  <Link href="/products?category=beer-cider" className="text-muted-foreground hover:text-primary">Beers & Ciders</Link>
+                  <Link href="/products?category=non-alcoholic" className="text-muted-foreground hover:text-primary">Non-Alcoholic</Link>
+                </div>
+              </div>
             </div>
           </div>
         )}
