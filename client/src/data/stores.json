@@ -1,47 +1,47 @@
 [
   {
-    "id": "westlands",
-    "name": "Premium Liquor Westlands",
+    "id": "obradleys",
+    "name": "OBRADLEYS OUTLETS",
     "location": "Westlands",
-    "address": "Sarit Centre, Karuna Road, Westlands, Nairobi",
-    "phone": "+254 700 123 456",
+    "address": "Westlands, Nairobi",
+    "phone": "0759565307",
     "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
     "coordinates": { "lat": -1.2634, "lng": 36.8028 }
   },
   {
     "id": "cbd",
-    "name": "Premium Liquor CBD",
+    "name": "CBD LIQUORSTORES",
     "location": "CBD",
-    "address": "Kenyatta Avenue, Central Business District, Nairobi",
-    "phone": "+254 700 123 457",
+    "address": "Central Business District, Nairobi",
+    "phone": "0759565307",
     "hours": "Mon-Sat: 9AM-9PM, Sun: 11AM-7PM",
     "coordinates": { "lat": -1.2833, "lng": 36.8219 }
   },
   {
     "id": "kilimani",
-    "name": "Premium Liquor Kilimani",
+    "name": "KILIMANI LIQUORSTORES",
     "location": "Kilimani",
-    "address": "Yaya Centre, Argwings Kodhek Road, Kilimani, Nairobi",
-    "phone": "+254 700 123 458",
+    "address": "Kilimani, Nairobi",
+    "phone": "0759565307",
     "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
     "coordinates": { "lat": -1.2921, "lng": 36.7896 }
   },
   {
-    "id": "karen",
-    "name": "Premium Liquor Karen",
-    "location": "Karen",
-    "address": "The Hub Karen, Dagoretti Road, Karen, Nairobi",
-    "phone": "+254 700 123 459",
-    "hours": "Mon-Sat: 10AM-9PM, Sun: 11AM-7PM",
-    "coordinates": { "lat": -1.3195, "lng": 36.7116 }
+    "id": "westlands",
+    "name": "WESTLANDS LIQUORSTORES",
+    "location": "Westlands",
+    "address": "Westlands, Nairobi",
+    "phone": "0759565307",
+    "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
+    "coordinates": { "lat": -1.2700, "lng": 36.8100 }
   },
   {
-    "id": "mombasa",
-    "name": "Premium Liquor Mombasa",
-    "location": "Mombasa",
-    "address": "Nyali Centre, Links Road, Nyali, Mombasa",
-    "phone": "+254 700 123 460",
-    "hours": "Mon-Sat: 10AM-10PM, Sun: 12PM-8PM",
-    "coordinates": { "lat": -4.0435, "lng": 39.6682 }
+    "id": "roysambu",
+    "name": "ROYSAMBU LIQUORSTORES",
+    "location": "Roysambu",
+    "address": "Roysambu, Nairobi",
+    "phone": "0759565307",
+    "hours": "Mon-Sat: 10AM-9PM, Sun: 11AM-7PM",
+    "coordinates": { "lat": -1.2400, "lng": 36.8500 }
   }
 ]
