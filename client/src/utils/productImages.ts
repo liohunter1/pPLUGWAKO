@@ -38,7 +38,6 @@ const productImageMap: Record<string, string> = {
   
   // Cognac & Brandy
   'hennessy-vs-750ml': '/images/hennessy-vs.jpg',
-  'hennessy-vsop-750ml': '/images/hennessy-vsop.jpg',
   'hennessy-xo-750ml': '/images/hennessy-xo.jpg',
   
   // Liqueur
