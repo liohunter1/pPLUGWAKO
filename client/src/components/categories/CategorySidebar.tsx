@@ -116,9 +116,9 @@ export default function CategorySidebar({ onCategorySelect, selectedCategory }: 
       <h3 className="font-serif text-lg font-bold text-white mb-4">Categories</h3>
       <div className="space-y-1">
         <button
-          onClick={() => onCategorySelect(null)}
+          onClick={() => onCategorySelect('')}
           className={`w-full text-left px-3 py-2 rounded-lg transition-colors ${
-            selectedCategory === null
+            selectedCategory === ''
               ? 'bg-primary text-primary-foreground font-medium'
               : 'text-muted-foreground hover:bg-muted hover:text-white'
           }`}
