@@ -171,25 +171,6 @@
     }
   },
   {
-    "id": "jack-daniels-750ml",
-    "name": "Jack Daniel's Tennessee Whiskey",
-    "category_id": "whisky",
-    "category_name": "Whisky",
-    "price": 4500,
-    "volume": "750ml",
-    "alcohol_percentage": 40,
-    "description": "America's favorite whiskey with a smooth, charcoal-mellowed taste.",
-    "rating": 4.8,
-    "featured": true,
-    "in_stock": true,
-    "image": "/images/jack-daniels.jpg",
-    "store": {
-      "name": "Premium Liquor Westlands",
-      "location": "Westlands, Nairobi",
-      "contact": "+254 700 123 456"
-    }
-  },
-  {
     "id": "johnnie-walker-black-750ml",
     "name": "Johnnie Walker Black Label",
     "category_id": "whisky",
