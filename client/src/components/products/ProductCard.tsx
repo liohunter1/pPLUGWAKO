@@ -14,7 +14,6 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ product }: ProductCardProps) {
-  const [imageLoaded, setImageLoaded] = useState(false);
   const [addedToCart, setAddedToCart] = useState(false);
   const { addItem } = useCart();
 
@@ -41,20 +40,11 @@ export default function ProductCard({ product }: ProductCardProps) {
         data-testid={`product-card-${product.id}`}
       >
         <div className="relative aspect-square overflow-hidden bg-muted">
-          {!imageLoaded && (
-            <Skeleton className="absolute inset-0" />
-          )}
           <img
             src={productImage}
             alt={product.name}
-            className={`h-full w-full object-cover transition-transform duration-500 group-hover:scale-110 ${
-              imageLoaded ? 'opacity-100' : 'opacity-0'
-            }`}
-            onLoad={() => setImageLoaded(true)}
-            onError={(e) => {
-              (e.target as HTMLImageElement).src = productImage;
-              setImageLoaded(true);
-            }}
+            className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110"
+            loading="lazy"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
           
