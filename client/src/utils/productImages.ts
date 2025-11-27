@@ -70,11 +70,11 @@ const productImageMap: Record<string, string> = {
 };
 
 const categoryImages: Record<string, string[]> = {
-  'beer-cider': ['/images/tusker-lager.jpg', '/images/tusker-malt.jpg', '/images/guinness.jpg'],
-  'whisky': ['/images/jameson-750ml.jpg', '/images/johnnie-black.jpg', '/images/chivas-12.jpg', '/images/aberfeldy-12.jpg', '/images/glenfiddich-12.jpg'],
-  'vodka-gin': ['/images/ciroc.jpg', '/images/absolut.jpg', '/images/smirnoff.jpg', '/images/grey-goose.jpg', '/images/tanqueray.jpg'],
+  'beer-cider': ['/images/tusker-lager.jpg', '/images/tusker-malt.jpg', '/images/guinness.jpg', '/images/guinness-draught-330ml.jpg', '/images/heineken.jpg'],
+  'whisky': ['/images/jameson-750ml.jpg', '/images/johnnie-black.jpg', '/images/chivas-12.jpg', '/images/aberfeldy-12.jpg', '/images/glenfiddich-12.jpg', '/images/macallan-12yo-750ml.jpg'],
+  'vodka-gin': ['/images/ciroc.jpg', '/images/absolut.jpg', '/images/smirnoff.jpg', '/images/grey-goose.jpg', '/images/tanqueray.jpg', '/images/gordons-gin-750ml.jpg'],
   'rum': ['/images/bacardi-white.jpg', '/images/captain-morgan.jpg', '/images/kenya-cane-smooth.jpg', '/images/konyagi-750ml.jpg'],
-  'cognac-brandy': ['/images/hennessy-vs.jpg', '/images/hennessy-vsop.jpg', '/images/hennessy-xo.jpg'],
+  'cognac-brandy': ['/images/hennessy-vs.jpg', '/images/hennessy-xo-750ml.jpg', '/images/hennessy-vsop-750ml.jpg'],
   'wine': ['/images/1659-red.jpg', '/images/1659-rose.jpg', '/images/whispering-angel.jpg'],
   'liqueur': ['/images/baileys.jpg', '/images/amarula.jpg'],
   'non-alcoholic': ['/images/chamdor-red-750ml.jpg', '/images/codorniu-zero-rose-750ml.jpg', '/images/martini-dolce-00-750ml.jpg', '/images/redbull-watermelon-250ml.jpg', '/images/redbull-sugarfree-250ml.jpg'],
