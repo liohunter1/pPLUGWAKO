@@ -3,6 +3,7 @@ import { useLocation, useSearch } from 'wouter';
 import { SlidersHorizontal, X, Search } from 'lucide-react';
 import Layout from '@/components/layout/Layout';
 import ProductCard, { ProductCardSkeleton } from '@/components/products/ProductCard';
+import CategorySidebar from '@/components/categories/CategorySidebar';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from '@/components/ui/sheet';

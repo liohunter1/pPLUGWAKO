@@ -1,42 +1,220 @@
 [
   {
-    "id": "beer-cider",
-    "name": "Beer & Cider",
-    "description": "Premium beers and refreshing ciders"
-  },
-  {
     "id": "whisky",
     "name": "Whisky",
+    "slug": "whisky",
+    "level": 0,
+    "parent_id": null,
     "description": "Fine whisky from around the world"
   },
   {
-    "id": "vodka-gin",
-    "name": "Vodka & Gin",
-    "description": "Premium vodkas and craft gins"
-  },
-  {
-    "id": "rum",
-    "name": "Rum",
-    "description": "Caribbean and local rums"
-  },
-  {
-    "id": "cognac-brandy",
-    "name": "Cognac & Brandy",
-    "description": "Luxury cognacs and brandies"
+    "id": "spirits",
+    "name": "Spirits",
+    "slug": "spirits",
+    "level": 0,
+    "parent_id": null,
+    "description": "Premium spirits including rum, vodka, gin, cognac and liqueurs",
+    "children": [
+      {
+        "id": "spirits-liqueur",
+        "name": "Liqueur",
+        "slug": "liqueur",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Sweet liqueurs and cream spirits"
+      },
+      {
+        "id": "spirits-rum",
+        "name": "Rum",
+        "slug": "rum",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Caribbean and local rums"
+      },
+      {
+        "id": "spirits-vodka",
+        "name": "Vodka",
+        "slug": "vodka",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Premium vodkas from around the world"
+      },
+      {
+        "id": "spirits-gin",
+        "name": "Gin",
+        "slug": "gin",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Craft gins and premium gin brands"
+      },
+      {
+        "id": "spirits-cognac",
+        "name": "Cognac & Brandy",
+        "slug": "cognac-brandy",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Luxury cognacs and brandies"
+      },
+      {
+        "id": "spirits-tequila",
+        "name": "Tequila",
+        "slug": "tequila",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Premium tequilas and mezcal"
+      },
+      {
+        "id": "spirits-others",
+        "name": "Others",
+        "slug": "others",
+        "level": 1,
+        "parent_id": "spirits",
+        "description": "Other premium spirits"
+      }
+    ]
   },
   {
     "id": "wine",
     "name": "Wine",
-    "description": "Red, white, and rosé wines"
+    "slug": "wines",
+    "level": 0,
+    "parent_id": null,
+    "description": "Red, white, rosé, sparkling and dessert wines",
+    "children": [
+      {
+        "id": "wine-red",
+        "name": "Red Wine",
+        "slug": "red-wine",
+        "level": 1,
+        "parent_id": "wine",
+        "description": "Full-bodied red wines"
+      },
+      {
+        "id": "wine-white",
+        "name": "White Wine",
+        "slug": "white-wine",
+        "level": 1,
+        "parent_id": "wine",
+        "description": "Crisp white wines"
+      },
+      {
+        "id": "wine-rose",
+        "name": "Rosé Wine",
+        "slug": "rose-wine",
+        "level": 1,
+        "parent_id": "wine",
+        "description": "Refreshing rosé wines"
+      },
+      {
+        "id": "wine-sparkling",
+        "name": "Sparkling",
+        "slug": "sparkling",
+        "level": 1,
+        "parent_id": "wine",
+        "description": "Champagne, prosecco and sparkling wines"
+      },
+      {
+        "id": "wine-dessert",
+        "name": "Dessert Wine",
+        "slug": "dessert-wine",
+        "level": 1,
+        "parent_id": "wine",
+        "description": "Sweet dessert wines"
+      },
+      {
+        "id": "wine-non-alc",
+        "name": "Non-Alcoholic Wine",
+        "slug": "non-alcoholic-wine",
+        "level": 1,
+        "parent_id": "wine",
+        "description": "Alcohol-free wine alternatives"
+      }
+    ]
   },
   {
-    "id": "liqueur",
-    "name": "Liqueur",
-    "description": "Sweet liqueurs and cream spirits"
+    "id": "beer-cider",
+    "name": "Beers & Ciders",
+    "slug": "beer-cider",
+    "level": 0,
+    "parent_id": null,
+    "description": "Premium beers and refreshing ciders",
+    "children": [
+      {
+        "id": "beer-cider-beer",
+        "name": "Beer",
+        "slug": "beer",
+        "level": 1,
+        "parent_id": "beer-cider",
+        "description": "Beers from around the world",
+        "children": [
+          {
+            "id": "beer-lager",
+            "name": "Lager",
+            "slug": "lager",
+            "level": 2,
+            "parent_id": "beer-cider-beer",
+            "description": "Crisp and refreshing lagers"
+          },
+          {
+            "id": "beer-stout",
+            "name": "Stout",
+            "slug": "stout",
+            "level": 2,
+            "parent_id": "beer-cider-beer",
+            "description": "Rich and dark stouts"
+          },
+          {
+            "id": "beer-ipa",
+            "name": "IPA",
+            "slug": "ipa",
+            "level": 2,
+            "parent_id": "beer-cider-beer",
+            "description": "Hoppy India Pale Ales"
+          },
+          {
+            "id": "beer-malt",
+            "name": "Malt",
+            "slug": "malt",
+            "level": 2,
+            "parent_id": "beer-cider-beer",
+            "description": "Premium malt beers"
+          }
+        ]
+      },
+      {
+        "id": "beer-cider-cider",
+        "name": "Cider",
+        "slug": "cider",
+        "level": 1,
+        "parent_id": "beer-cider",
+        "description": "Refreshing ciders"
+      }
+    ]
   },
   {
     "id": "non-alcoholic",
     "name": "Non-Alcoholic",
-    "description": "Mixers and non-alcoholic beverages"
+    "slug": "non-alcoholic",
+    "level": 0,
+    "parent_id": null,
+    "description": "Mixers and non-alcoholic beverages",
+    "children": [
+      {
+        "id": "non-alc-energy",
+        "name": "Energy Drinks",
+        "slug": "energy-drinks",
+        "level": 1,
+        "parent_id": "non-alcoholic",
+        "description": "Energy drinks and performance beverages"
+      },
+      {
+        "id": "non-alc-juice",
+        "name": "Juices & Soft Drinks",
+        "slug": "juices-soft-drinks",
+        "level": 1,
+        "parent_id": "non-alcoholic",
+        "description": "Fresh juices and soft drinks"
+      }
+    ]
   }
 ]
