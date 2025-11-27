@@ -1,0 +1,42 @@
+[
+  {
+    "id": "beer-cider",
+    "name": "Beer & Cider",
+    "description": "Premium beers and refreshing ciders"
+  },
+  {
+    "id": "whisky",
+    "name": "Whisky",
+    "description": "Fine whisky from around the world"
+  },
+  {
+    "id": "vodka-gin",
+    "name": "Vodka & Gin",
+    "description": "Premium vodkas and craft gins"
+  },
+  {
+    "id": "rum",
+    "name": "Rum",
+    "description": "Caribbean and local rums"
+  },
+  {
+    "id": "cognac-brandy",
+    "name": "Cognac & Brandy",
+    "description": "Luxury cognacs and brandies"
+  },
+  {
+    "id": "wine",
+    "name": "Wine",
+    "description": "Red, white, and rosé wines"
+  },
+  {
+    "id": "liqueur",
+    "name": "Liqueur",
+    "description": "Sweet liqueurs and cream spirits"
+  },
+  {
+    "id": "non-alcoholic",
+    "name": "Non-Alcoholic",
+    "description": "Mixers and non-alcoholic beverages"
+  }
+]

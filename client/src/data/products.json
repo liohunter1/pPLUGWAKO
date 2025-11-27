@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "tusker-lager-500ml",
+    "name": "Tusker Lager",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 250,
+    "volume": "500ml",
+    "alcohol_percentage": 4.2,
+    "description": "Kenya's iconic premium lager with a crisp, refreshing taste. Perfect for any occasion.",
+    "rating": 4.7,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/tusker-lager.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "tusker-malt-500ml",
+    "name": "Tusker Malt",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 280,
+    "volume": "500ml",
+    "alcohol_percentage": 5.0,
+    "description": "Rich, full-bodied premium malt lager with superior taste and quality.",
+    "rating": 4.8,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/tusker-malt.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "pilsner-lager-500ml",
+    "name": "Pilsner Lager",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 240,
+    "volume": "500ml",
+    "alcohol_percentage": 4.2,
+    "description": "Classic Czech-style pilsner with a clean, crisp finish.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/pilsner.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "white-cap-500ml",
+    "name": "White Cap Lager",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 240,
+    "volume": "500ml",
+    "alcohol_percentage": 4.2,
+    "description": "Smooth and easy-drinking lager, perfect for social gatherings.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/whitecap.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "guinness-500ml",
+    "name": "Guinness Stout",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 300,
+    "volume": "500ml",
+    "alcohol_percentage": 5.0,
+    "description": "Rich, dark stout with notes of coffee and chocolate. An Irish classic.",
+    "rating": 4.9,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/guinness.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "savanna-dry-330ml",
+    "name": "Savanna Dry Cider",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 220,
+    "volume": "330ml",
+    "alcohol_percentage": 6.0,
+    "description": "Crisp and refreshing apple cider with a dry finish.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/savanna-dry.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "hunters-gold-330ml",
+    "name": "Hunter's Gold Cider",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 220,
+    "volume": "330ml",
+    "alcohol_percentage": 5.5,
+    "description": "Premium gold cider with a sweet, fruity flavor profile.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/hunters-gold.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "heineken-330ml",
+    "name": "Heineken Lager",
+    "category_id": "beer-cider",
+    "category_name": "Beer & Cider",
+    "price": 280,
+    "volume": "330ml",
+    "alcohol_percentage": 5.0,
+    "description": "World-famous Dutch lager with a distinctive taste and quality.",
+    "rating": 4.7,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/heineken.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "jameson-750ml",
+    "name": "Jameson Irish Whiskey",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 3200,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Smooth triple-distilled Irish whiskey with a perfect balance of spicy and sweet notes.",
+    "rating": 4.9,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jameson.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "jack-daniels-750ml",
+    "name": "Jack Daniel's Tennessee Whiskey",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 4500,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "America's favorite whiskey with a smooth, charcoal-mellowed taste.",
+    "rating": 4.8,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniels.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "johnnie-walker-black-750ml",
+    "name": "Johnnie Walker Black Label",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 4800,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Premium blended Scotch whisky aged for 12 years with deep, complex flavors.",
+    "rating": 4.9,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/johnnie-black.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "johnnie-walker-red-750ml",
+    "name": "Johnnie Walker Red Label",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 2800,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Vibrant, versatile blended Scotch whisky with a bold character.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/johnnie-red.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "chivas-regal-12-750ml",
+    "name": "Chivas Regal 12 Year Old",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 4200,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Smooth, rich blended Scotch whisky with hints of honey and vanilla.",
+    "rating": 4.8,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/chivas-12.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "grants-750ml",
+    "name": "Grant's Triple Wood Scotch",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 2400,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Smooth blended Scotch matured in three different wood types for complexity.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/grants.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "ballantines-750ml",
+    "name": "Ballantine's Finest",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 2600,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Smooth and balanced blended Scotch whisky with a soft, rounded finish.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/ballantines.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "famous-grouse-750ml",
+    "name": "The Famous Grouse",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 2200,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Scotland's favorite blended whisky with a smooth, mellow taste.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/famous-grouse.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "ciroc-750ml",
+    "name": "Ciroc Premium Vodka",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 4500,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Ultra-premium French vodka distilled from fine French grapes.",
+    "rating": 4.8,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/ciroc.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "absolut-750ml",
+    "name": "Absolut Vodka",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 2800,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Swedish vodka with a rich, full-bodied taste and smooth finish.",
+    "rating": 4.7,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/absolut.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "smirnoff-750ml",
+    "name": "Smirnoff Red Vodka",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 2200,
+    "volume": "750ml",
+    "alcohol_percentage": 37.5,
+    "description": "Classic triple-distilled vodka with a clean, crisp taste.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/smirnoff.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "gordons-gin-750ml",
+    "name": "Gordon's London Dry Gin",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 2400,
+    "volume": "750ml",
+    "alcohol_percentage": 37.5,
+    "description": "Classic London dry gin with juniper-led botanicals.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/gordons.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "tanqueray-750ml",
+    "name": "Tanqueray London Dry Gin",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 3200,
+    "volume": "750ml",
+    "alcohol_percentage": 43.1,
+    "description": "Premium London dry gin with a perfect balance of botanicals.",
+    "rating": 4.8,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/tanqueray.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "hendricks-750ml",
+    "name": "Hendrick's Gin",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 4800,
+    "volume": "750ml",
+    "alcohol_percentage": 41.4,
+    "description": "Unique Scottish gin infused with cucumber and rose petals.",
+    "rating": 4.9,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/hendricks.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "gilbeys-750ml",
+    "name": "Gilbey's Gin",
+    "category_id": "vodka-gin",
+    "category_name": "Vodka & Gin",
+    "price": 1800,
+    "volume": "750ml",
+    "alcohol_percentage": 37.5,
+    "description": "Classic London dry gin with a smooth, balanced flavor.",
+    "rating": 4.3,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/gilbeys.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "bacardi-white-750ml",
+    "name": "Bacardi Superior White Rum",
+    "category_id": "rum",
+    "category_name": "Rum",
+    "price": 2800,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Smooth white rum perfect for cocktails with a clean, crisp taste.",
+    "rating": 4.7,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/bacardi-white.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "captain-morgan-750ml",
+    "name": "Captain Morgan Spiced Rum",
+    "category_id": "rum",
+    "category_name": "Rum",
+    "price": 2600,
+    "volume": "750ml",
+    "alcohol_percentage": 35.0,
+    "description": "Smooth spiced rum with hints of vanilla and caramel.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/captain-morgan.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "kenya-cane-250ml",
+    "name": "Kenya Cane Spirit",
+    "category_id": "rum",
+    "category_name": "Rum",
+    "price": 250,
+    "volume": "250ml",
+    "alcohol_percentage": 40.0,
+    "description": "Kenya's favorite spirit, smooth and versatile for mixing.",
+    "rating": 4.5,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/kenya-cane.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "kenya-cane-750ml",
+    "name": "Kenya Cane Spirit",
+    "category_id": "rum",
+    "category_name": "Rum",
+    "price": 650,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Kenya's favorite spirit in a larger size, perfect for parties.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/kenya-cane.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "sailor-jerry-750ml",
+    "name": "Sailor Jerry Spiced Rum",
+    "category_id": "rum",
+    "category_name": "Rum",
+    "price": 2900,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Bold Caribbean rum with rich vanilla and spice flavors.",
+    "rating": 4.7,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/sailor-jerry.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "havana-club-750ml",
+    "name": "Havana Club 3 Year Rum",
+    "category_id": "rum",
+    "category_name": "Rum",
+    "price": 2400,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Authentic Cuban rum aged for 3 years with a smooth finish.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/havana-club.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "hennessy-vs-750ml",
+    "name": "Hennessy VS Cognac",
+    "category_id": "cognac-brandy",
+    "category_name": "Cognac & Brandy",
+    "price": 6500,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "World's most popular cognac with vibrant, fruity notes.",
+    "rating": 4.9,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/hennessy-vs.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "hennessy-vsop-750ml",
+    "name": "Hennessy VSOP Cognac",
+    "category_id": "cognac-brandy",
+    "category_name": "Cognac & Brandy",
+    "price": 9800,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Premium cognac aged for at least 4 years with complex flavors.",
+    "rating": 4.9,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/hennessy-vsop.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "richot-750ml",
+    "name": "Richot VSOP Brandy",
+    "category_id": "cognac-brandy",
+    "category_name": "Cognac & Brandy",
+    "price": 2200,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Smooth French brandy with rich, warm flavors.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/richot.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "remy-martin-vsop-750ml",
+    "name": "Rémy Martin VSOP",
+    "category_id": "cognac-brandy",
+    "category_name": "Cognac & Brandy",
+    "price": 8500,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Fine champagne cognac with notes of vanilla and oak.",
+    "rating": 4.8,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/remy-martin.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "martell-vs-750ml",
+    "name": "Martell VS Cognac",
+    "category_id": "cognac-brandy",
+    "category_name": "Cognac & Brandy",
+    "price": 5800,
+    "volume": "750ml",
+    "alcohol_percentage": 40.0,
+    "description": "Elegant cognac with fruity and woody notes.",
+    "rating": 4.7,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/martell.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "baileys-750ml",
+    "name": "Baileys Irish Cream",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 3200,
+    "volume": "750ml",
+    "alcohol_percentage": 17.0,
+    "description": "Smooth Irish cream liqueur with hints of chocolate and vanilla.",
+    "rating": 4.8,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/baileys.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "amarula-750ml",
+    "name": "Amarula Cream Liqueur",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 2800,
+    "volume": "750ml",
+    "alcohol_percentage": 17.0,
+    "description": "Creamy liqueur made from African marula fruit with rich caramel notes.",
+    "rating": 4.7,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/amarula.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "kahlua-750ml",
+    "name": "Kahlúa Coffee Liqueur",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 2600,
+    "volume": "750ml",
+    "alcohol_percentage": 20.0,
+    "description": "Rich coffee liqueur perfect for cocktails and desserts.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/kahlua.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "jagermeister-750ml",
+    "name": "Jägermeister",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 3400,
+    "volume": "750ml",
+    "alcohol_percentage": 35.0,
+    "description": "German herbal liqueur with complex botanical flavors.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/jagermeister.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "19-crimes-red-750ml",
+    "name": "19 Crimes Red Wine",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1800,
+    "volume": "750ml",
+    "alcohol_percentage": 13.5,
+    "description": "Bold Australian red wine with rich fruit flavors.",
+    "rating": 4.6,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/19-crimes.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "barefoot-moscato-750ml",
+    "name": "Barefoot Moscato",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1400,
+    "volume": "750ml",
+    "alcohol_percentage": 9.0,
+    "description": "Sweet white wine with peach and citrus notes.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/barefoot-moscato.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "barefoot-pink-moscato-750ml",
+    "name": "Barefoot Pink Moscato",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1400,
+    "volume": "750ml",
+    "alcohol_percentage": 9.0,
+    "description": "Sweet rosé with refreshing fruit flavors.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/barefoot-pink.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "1659-red-750ml",
+    "name": "1659 Cabernet Sauvignon",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1200,
+    "volume": "750ml",
+    "alcohol_percentage": 13.0,
+    "description": "Smooth South African red wine with berry notes.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/1659-red.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "1865-white-750ml",
+    "name": "1865 Chenin Blanc",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1200,
+    "volume": "750ml",
+    "alcohol_percentage": 12.5,
+    "description": "Crisp South African white wine with tropical fruit flavors.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/1865-white.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "whispering-angel-750ml",
+    "name": "Whispering Angel Rosé",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 3800,
+    "volume": "750ml",
+    "alcohol_percentage": 13.0,
+    "description": "Premium Provence rosé with delicate fruit flavors.",
+    "rating": 4.9,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/whispering-angel.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "yellow-tail-shiraz-750ml",
+    "name": "Yellow Tail Shiraz",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1600,
+    "volume": "750ml",
+    "alcohol_percentage": 13.5,
+    "description": "Australian red wine with bold fruit flavors and smooth finish.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/yellow-tail.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "nederburg-cabernet-750ml",
+    "name": "Nederburg Cabernet Sauvignon",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 1300,
+    "volume": "750ml",
+    "alcohol_percentage": 13.5,
+    "description": "Rich South African red with dark fruit and oak notes.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/nederburg.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "4th-street-sweet-red-750ml",
+    "name": "4th Street Sweet Red",
+    "category_id": "wine",
+    "category_name": "Wine",
+    "price": 800,
+    "volume": "750ml",
+    "alcohol_percentage": 8.0,
+    "description": "Popular sweet red wine perfect for casual occasions.",
+    "rating": 4.3,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/4th-street.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "redbull-250ml",
+    "name": "Red Bull Energy Drink",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 200,
+    "volume": "250ml",
+    "alcohol_percentage": 0.0,
+    "description": "Energy drink with taurine and caffeine for an instant boost.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/redbull.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "schweppes-tonic-330ml",
+    "name": "Schweppes Tonic Water",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 120,
+    "volume": "330ml",
+    "alcohol_percentage": 0.0,
+    "description": "Classic tonic water perfect for gin and tonics.",
+    "rating": 4.4,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/schweppes-tonic.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "schweppes-ginger-ale-330ml",
+    "name": "Schweppes Ginger Ale",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 120,
+    "volume": "330ml",
+    "alcohol_percentage": 0.0,
+    "description": "Refreshing ginger ale perfect for mixing.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/schweppes-ginger.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "soda-water-330ml",
+    "name": "Soda Water",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 80,
+    "volume": "330ml",
+    "alcohol_percentage": 0.0,
+    "description": "Carbonated water for mixing cocktails.",
+    "rating": 4.2,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/soda-water.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "coca-cola-500ml",
+    "name": "Coca-Cola",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 100,
+    "volume": "500ml",
+    "alcohol_percentage": 0.0,
+    "description": "Classic cola soft drink perfect for mixing.",
+    "rating": 4.7,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/coca-cola.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  },
+  {
+    "id": "sprite-500ml",
+    "name": "Sprite",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 100,
+    "volume": "500ml",
+    "alcohol_percentage": 0.0,
+    "description": "Lemon-lime soda perfect for refreshing cocktails.",
+    "rating": 4.6,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/sprite.jpg",
+    "store": {
+      "name": "Premium Liquor CBD",
+      "location": "CBD, Nairobi",
+      "contact": "+254 700 123 457"
+    }
+  },
+  {
+    "id": "fanta-orange-500ml",
+    "name": "Fanta Orange",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 100,
+    "volume": "500ml",
+    "alcohol_percentage": 0.0,
+    "description": "Orange-flavored soda with a fruity taste.",
+    "rating": 4.5,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/fanta.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
+  }
+]
