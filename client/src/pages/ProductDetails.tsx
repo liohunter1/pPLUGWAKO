@@ -47,9 +47,15 @@ export default function ProductDetails() {
     );
   }
 
-  const relatedProducts = allProducts
-    .filter(p => p.category_id === product.category_id && p.id !== product.id)
-    .slice(0, 4);
+  // Get curated related products if available, otherwise use category-based
+  const curatedRelated = (product as any).related_products as string[] | undefined;
+  const relatedProducts = curatedRelated && curatedRelated.length > 0
+    ? curatedRelated
+        .map(id => allProducts.find(p => p.id === id))
+        .filter((p): p is Product => p !== undefined)
+    : allProducts
+        .filter(p => p.category_id === product.category_id && p.id !== product.id)
+        .slice(0, 4);
 
   const productVariants = (product as any).variants as Variant[] | undefined;
   const displayImage = selectedVariant ? selectedVariant.image : getProductImage(product.category_id, product.id);
