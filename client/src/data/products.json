@@ -7487,5 +7487,425 @@
       "contact": "+254 700 123 456"
     },
     "source": "Vintage Liquor Kenya"
+  },
+  {
+    "id": "jack-daniel-s-old-no-7-350ml",
+    "name": "Jack Daniel's Old No. 7 350ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 1800,
+    "volume": "350ml",
+    "alcohol_percentage": 40,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Old No. 7 350ml",
+    "rating": 4.792060876541501,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-old-no-7-350ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-old-no-7-750ml",
+    "name": "Jack Daniel's Old No. 7 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 3500,
+    "volume": "750ml",
+    "alcohol_percentage": 40,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Old No. 7 750ml",
+    "rating": 4.874113839678806,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-old-no-7-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-old-no-7-1l",
+    "name": "Jack Daniel's Old No. 7 1L",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 4200,
+    "volume": "1L",
+    "alcohol_percentage": 40,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Old No. 7 1L",
+    "rating": 4.973668081817271,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-old-no-7-1l.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-single-barrel-750ml",
+    "name": "Jack Daniel's Single Barrel 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 8500,
+    "volume": "750ml",
+    "alcohol_percentage": 45,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Single Barrel 750ml",
+    "rating": 4.754675948396509,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-single-barrel-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-single-barrel-rye-750ml",
+    "name": "Jack Daniel's Single Barrel Rye 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 9000,
+    "volume": "750ml",
+    "alcohol_percentage": 47,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Single Barrel Rye 750ml",
+    "rating": 4.870613503650146,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-single-barrel-rye-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-gentleman-jack-750ml",
+    "name": "Jack Daniel's Gentleman Jack 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 5800,
+    "volume": "750ml",
+    "alcohol_percentage": 40,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Gentleman Jack 750ml",
+    "rating": 4.740977130520866,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-gentleman-jack-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-gentleman-jack-1l",
+    "name": "Jack Daniel's Gentleman Jack 1L",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 6800,
+    "volume": "1L",
+    "alcohol_percentage": 40,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Gentleman Jack 1L",
+    "rating": 4.902054564521485,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-gentleman-jack-1l.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-fire-750ml",
+    "name": "Jack Daniel's Fire 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 4200,
+    "volume": "750ml",
+    "alcohol_percentage": 35,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Fire 750ml",
+    "rating": 4.710859389209283,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-fire-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-fire-350ml",
+    "name": "Jack Daniel's Fire 350ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 2200,
+    "volume": "350ml",
+    "alcohol_percentage": 35,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Fire 350ml",
+    "rating": 4.718973256618305,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-fire-350ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-honey-750ml",
+    "name": "Jack Daniel's Honey 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 3800,
+    "volume": "750ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Honey 750ml",
+    "rating": 4.861920830329836,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-honey-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-honey-350ml",
+    "name": "Jack Daniel's Honey 350ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 2000,
+    "volume": "350ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Honey 350ml",
+    "rating": 4.976182357457774,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-honey-350ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-apple-750ml",
+    "name": "Jack Daniel's Apple 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 3800,
+    "volume": "750ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Apple 750ml",
+    "rating": 4.820084000747081,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-apple-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-apple-350ml",
+    "name": "Jack Daniel's Apple 350ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 2000,
+    "volume": "350ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Apple 350ml",
+    "rating": 4.772133637268592,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-apple-350ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-peach-750ml",
+    "name": "Jack Daniel's Peach 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 3800,
+    "volume": "750ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Peach 750ml",
+    "rating": 4.75710091897755,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-peach-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-peach-350ml",
+    "name": "Jack Daniel's Peach 350ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 2000,
+    "volume": "350ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Peach 350ml",
+    "rating": 4.749225478881247,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-peach-350ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-whiskey-cream-750ml",
+    "name": "Jack Daniel's Whiskey Cream 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 4200,
+    "volume": "750ml",
+    "alcohol_percentage": 35,
+    "description": "Premium whiskey liqueur - Jack Daniel's Whiskey Cream 750ml",
+    "rating": 4.755627878068787,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-whiskey-cream-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-tennessee-rye-750ml",
+    "name": "Jack Daniel's Tennessee Rye 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 5500,
+    "volume": "750ml",
+    "alcohol_percentage": 45,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Tennessee Rye 750ml",
+    "rating": 4.99998519344097,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-tennessee-rye-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-legacy-750ml",
+    "name": "Jack Daniel's Legacy 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 6500,
+    "volume": "750ml",
+    "alcohol_percentage": 43,
+    "description": "Premium Tennessee whiskey - Jack Daniel's Legacy 750ml",
+    "rating": 4.731397966990138,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-legacy-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-winter-jack-750ml",
+    "name": "Jack Daniel's Winter Jack 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "liqueur",
+    "category_name": "Liqueur",
+    "price": 4500,
+    "volume": "750ml",
+    "alcohol_percentage": 30,
+    "description": "Premium whiskey liqueur - Jack Daniel's Winter Jack 750ml",
+    "rating": 4.786727965511988,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-winter-jack-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
+  },
+  {
+    "id": "jack-daniel-s-no-27-gold-750ml",
+    "name": "Jack Daniel's No. 27 Gold 750ml",
+    "brand": "Jack Daniel's",
+    "category_id": "whisky",
+    "category_name": "Whisky",
+    "price": 8000,
+    "volume": "750ml",
+    "alcohol_percentage": 40,
+    "description": "Premium Tennessee whiskey - Jack Daniel's No. 27 Gold 750ml",
+    "rating": 4.796349955023752,
+    "featured": true,
+    "in_stock": true,
+    "image": "/images/jack-daniel-s-no-27-gold-750ml.jpg",
+    "store": {
+      "name": "Nairobi Drinks Outlet",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 555 666"
+    },
+    "source": "Nairobi Drinks Kenya"
   }
 ]
