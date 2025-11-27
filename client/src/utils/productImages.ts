@@ -52,6 +52,7 @@ const productImageMap: Record<string, string> = {
   
   // Non-Alcoholic
   'redbull-watermelon-250ml': '/images/redbull-watermelon-250ml.jpg',
+  'redbull-sugarfree-250ml': '/images/redbull-sugarfree-250ml.jpg',
 };
 
 const categoryImages: Record<string, string[]> = {
@@ -62,7 +63,7 @@ const categoryImages: Record<string, string[]> = {
   'cognac-brandy': ['/images/hennessy-vs.jpg', '/images/hennessy-vsop.jpg', '/images/hennessy-xo.jpg'],
   'wine': ['/images/1659-red.jpg', '/images/1659-rose.jpg', '/images/whispering-angel.jpg'],
   'liqueur': ['/images/baileys.jpg', '/images/amarula.jpg'],
-  'non-alcoholic': ['/images/redbull-watermelon-250ml.jpg'],
+  'non-alcoholic': ['/images/redbull-watermelon-250ml.jpg', '/images/redbull-sugarfree-250ml.jpg'],
 };
 
 const heroImage = '/images/jameson-750ml.jpg';

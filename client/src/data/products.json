@@ -1167,5 +1167,24 @@
       "location": "Westlands, Nairobi",
       "contact": "+254 700 123 456"
     }
+  },
+  {
+    "id": "redbull-sugarfree-250ml",
+    "name": "Red Bull Sugar Free 250ml",
+    "category_id": "non-alcoholic",
+    "category_name": "Non-Alcoholic",
+    "price": 380,
+    "volume": "250ml",
+    "alcohol_percentage": 0,
+    "description": "Red Bull Energy Drink Sugar Free. Vitalizes body and mind with high caffeine content and zero sugar.",
+    "rating": 4.7,
+    "featured": false,
+    "in_stock": true,
+    "image": "/images/redbull-sugarfree-250ml.jpg",
+    "store": {
+      "name": "Premium Liquor Westlands",
+      "location": "Westlands, Nairobi",
+      "contact": "+254 700 123 456"
+    }
   }
 ]
